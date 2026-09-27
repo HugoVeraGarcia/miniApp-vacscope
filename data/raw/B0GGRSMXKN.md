@@ -1,0 +1,5 @@
+link https://amzn.to/4rwOcXo tag ok — roborock Qrevo S Pro (2026); seller third-party, ships Amazon; $499.99 list $699.99; 6K+ bought/mo
+rating 4.1 (6,413) 5:68 4:8 3:6 2:5 1:13 — listing shares reviews with related Roborock models (e.g. QV3a)
+images 61dUJLJCe5L 819FG8Lj85L 81GGmqSX9ML 81LZ7OHUlSL 81L-rfJ4UBL 81e90bF-3wL 81VYcTxG+HL 819pD1W9uUL
+specs: 18,500 Pa; dock: auto-empty 2.7 L bag 7–9 weeks, 167°F mop self-cleaning, 113°F warm-air drying, self-refill; zero-tangle side brush + all-rubber main brush + omni wheel; dual liftable spinning mops; LiDAR + Reactive Tech obstacle avoidance; height 3.8 in; battery 180 min; noise 60 dB; smart carpet cleaning; multi-floor maps; dock 13.38x19.17x20.51 in 25.6 lb; 1-yr warranty
+reviews: Paws & Passports 5 2026-07-08 husky+aussie+cat, 1,200 sq ft; Randall Gud 5 2026-08-16 20 years of robots (Roomba, Neato), cleanest floors; Elise H Schmidt 1 2026-07-22 firmware/software bad after 8 months, ~2,000 sq ft; C. Hilliard 4 2026-06-29 first-time owner, 10 min setup; Amazon Customer 5 2026-04-14 owns three for 3-level home.

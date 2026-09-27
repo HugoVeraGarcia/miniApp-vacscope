@@ -1,0 +1,2566 @@
+{
+ "_meta": {
+  "niche": "robot vacuums",
+  "marketplace": "amazon.com",
+  "currency": "USD",
+  "affiliate_tag": "microtools0f-20",
+  "updated": "2026-09-27",
+  "notes": "Scores: suction and low_profile are formula-based (see /how-we-rate/); the rest are editorial. Null = not published/verified."
+ },
+ "products": [
+  {
+   "id": "roborock-q7-l5",
+   "asin": "B0F334DN9J",
+   "name": "Roborock Q7 L5",
+   "brand": "Roborock",
+   "model": "Q7 L5",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4rvZECx",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0F334DN9J",
+   "images": [
+    "61T3QADwWuL",
+    "61lr1NRtRJL",
+    "61qaV-n8+BL",
+    "616E28-aroL",
+    "71OH9PwQGDL",
+    "71agbrDyJJL",
+    "71yVaQjh3fL",
+    "71Bm0eKEWEL"
+   ],
+   "tags": [
+    "budget",
+    "pets"
+   ],
+   "featured": false,
+   "badge": "Best under $150",
+   "seller": "Third-party seller (ships from Amazon)",
+   "price": 139.99,
+   "list_price": 249.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 3K+ bought last month",
+   "rating": 4.0,
+   "reviews_count": 16367,
+   "rating_breakdown": {
+    "5": 59,
+    "4": 14,
+    "3": 7,
+    "2": 6,
+    "1": 14
+   },
+   "specs": {
+    "suction_pa": 8000,
+    "runtime_min": 150,
+    "battery_mah": 3200,
+    "height_in": 3.89,
+    "climb_in": null,
+    "navigation": "LiDAR (multi-floor maps)",
+    "obstacle_avoidance": "None (bump sensors)",
+    "mop_type": "Pad, no lift (270 ml tank)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": true,
+    "self_empty": false,
+    "dock_days": null,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": 60,
+    "voice": "Alexa, Google Home",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Dock": "Charging dock only (empty the bin by hand)",
+    "Water tank": "270 ml, 3 flow levels (shared bin/tank module)",
+    "Smart features": "No-go zones, room scheduling, child lock"
+   },
+   "spec_sources": "Amazon listing + us.roborock.com (height 3.89 in, 3,200 mAh). The Amazon listing also carries older reviews of the Roborock E4.",
+   "scores": {
+    "suction": 5,
+    "low_profile": 3,
+    "navigation": 5,
+    "mopping": 3,
+    "hands_free": 1,
+    "pet": 5,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "LiDAR mapping and 8,000 Pa for about $140.",
+    "summary": "The cheapest way into a robot that actually maps your home: LiDAR navigation, 8,000 Pa, anti-tangle brushes, a light mop and 150 minutes of runtime — without a self-emptying dock.",
+    "body": [
+     "The Q7 L5 brings Roborock's LiDAR navigation to a budget price. It maps multiple floors, cleans room by room and lets you draw no-go zones in the app, which is what separates it from the random-bounce robots at this price.",
+     "Suction is 8,000 Pa with anti-tangle main and side brushes, and a 270 ml tank lets it mop lightly at the same time. The pad doesn't lift, so it can't mop and vacuum rugs in one run, and there's no obstacle camera — pick up cables and socks first.",
+     "There's no self-emptying dock, so you'll empty the bin by hand every few runs. At 3.89 in tall it fits under most sofas. With 16,000+ ratings it's one of the most-reviewed robots on Amazon, though the listing mixes in reviews of older Roborock models."
+    ],
+    "pros": [
+     "LiDAR mapping at a budget price",
+     "Anti-tangle brushes",
+     "150-minute runtime",
+     "Huge review base"
+    ],
+    "cons": [
+     "No self-emptying dock",
+     "No obstacle avoidance",
+     "Mop pad doesn't lift",
+     "Sold by a third-party seller"
+    ],
+    "ideal_for": "Apartments and small homes that want real mapping on a tight budget.",
+    "not_for": "Homes with lots of floor clutter, rugs you don't want wet, or anyone who hates emptying bins.",
+    "verdict": "The best cheap robot vacuum with real mapping — just empty it yourself.",
+    "review_summary": "4.0★ from 16,367 ratings (73% 4–5 stars). Owners call it great value and easy to set up, and some say it never gets stuck. Complaints include a unit that kept falling down a step near its dock. The listing includes older reviews of previous Roborock models.",
+    "reviews": [
+     {
+      "author": "D. P. Olavson",
+      "stars": 5,
+      "date": "2026-09-11",
+      "title": null,
+      "excerpt": "Never gets stuck, unlike the robot it replaced.",
+      "paraphrase": true
+     },
+     {
+      "author": "Hannah S.",
+      "stars": 5,
+      "date": "2026-07-21",
+      "title": null,
+      "excerpt": "Great value; happy after more than a month.",
+      "paraphrase": true
+     },
+     {
+      "author": "Kayla Haught",
+      "stars": 5,
+      "date": "2026-08-31",
+      "title": null,
+      "excerpt": "Should have bought it months earlier.",
+      "paraphrase": true
+     },
+     {
+      "author": "Will E.",
+      "stars": 1,
+      "date": "2025-07-25",
+      "title": null,
+      "excerpt": "Kept falling down a step near the dock.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tikom-l8000-plus",
+   "asin": "B0FKH1RW65",
+   "name": "Tikom L8000 Plus",
+   "brand": "Tikom",
+   "model": "L8000 Plus",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/3TUlOC7",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0FKH1RW65",
+   "images": [
+    "712+1GJM3rL",
+    "81bHW18kf4L",
+    "81nV4hZH25L",
+    "81iAHzSWzgL",
+    "81r5iQUgQOL",
+    "81h71X7BeRL",
+    "81etiyRDikL",
+    "81Nj-TAYhlL"
+   ],
+   "tags": [
+    "budget",
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best value self-emptying",
+   "seller": "Tikom RobotVac (ships from Amazon)",
+   "price": 208.97,
+   "list_price": 249.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.5,
+   "reviews_count": 649,
+   "rating_breakdown": {
+    "5": 79,
+    "4": 9,
+    "3": 5,
+    "2": 2,
+    "1": 5
+   },
+   "specs": {
+    "suction_pa": 6000,
+    "runtime_min": 150,
+    "battery_mah": null,
+    "height_in": 3.7,
+    "climb_in": 0.71,
+    "navigation": "LiDAR (up to 5 floor maps)",
+    "obstacle_avoidance": "None (LiDAR + bump sensors)",
+    "mop_type": "Pad, no lift",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": null,
+    "self_empty": true,
+    "dock_days": 90,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": 60,
+    "voice": "Alexa",
+    "warranty": "2 years (per reviewers)"
+   },
+   "specs_extra": {
+    "Dust bag": "3 L, up to 90 days",
+    "Wi-Fi": "2.4 GHz and 5 GHz",
+    "Carpet": "Auto suction boost; remove mop holder or set a no-mop zone before carpets"
+   },
+   "spec_sources": "Amazon listing + Vacuum Wars and robot-review.com for height (3.7 in), 18 mm climbing and warranty.",
+   "scores": {
+    "suction": 4,
+    "low_profile": 5,
+    "navigation": 5,
+    "mopping": 3,
+    "hands_free": 5,
+    "pet": 6,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "A LiDAR robot with a 90-day self-emptying dock for about $210.",
+    "summary": "6,000 Pa, LiDAR mapping, a 3 L self-emptying dock and 150 minutes of runtime — one of the cheapest ways to stop emptying the bin by hand.",
+    "body": [
+     "Tikom's L8000 Plus pairs LiDAR mapping (up to five floors) with a self-emptying dock whose 3 L bag lasts up to 90 days. That combination usually costs more, which is why owners call it the best robot for the price.",
+     "Suction is 6,000 Pa with an automatic boost on carpet. It can mop with a basic pad, but the pad doesn't lift, so you need to remove it or set no-mop zones before it reaches rugs. There's no obstacle camera, and it climbs thresholds up to about 0.7 in.",
+     "Owners with heavy shedders — including a 100 lb German Shepherd — are happy with how much hair it picks up. It's quiet, works with Alexa and supports 5 GHz Wi-Fi, which many robots don't."
+    ],
+    "pros": [
+     "Self-emptying dock (90 days) at a budget price",
+     "LiDAR mapping with room selection",
+     "4.5★ with 88% 4–5 stars",
+     "5 GHz Wi-Fi support"
+    ],
+    "cons": [
+     "6,000 Pa is modest",
+     "No obstacle avoidance",
+     "Mop pad doesn't lift",
+     "Lower thresholds only (~0.7 in)"
+    ],
+    "ideal_for": "Pet owners on a budget who want hands-free emptying.",
+    "not_for": "Homes with high thresholds or cluttered floors.",
+    "verdict": "The best-value self-emptying robot here — hard to beat for about $210.",
+    "review_summary": "4.5★ from 649 ratings (88% 4–5 stars). Owners praise the accurate map, quiet operation, room selection and how much pet hair it collects (including homes with four dogs). Few complaints so far.",
+    "reviews": [
+     {
+      "author": "Judy",
+      "stars": 5,
+      "date": "2026-08-29",
+      "title": null,
+      "excerpt": "Handles a 100 lb shedding German Shepherd and a long-haired cat.",
+      "paraphrase": true
+     },
+     {
+      "author": "Kimberly",
+      "stars": 5,
+      "date": "2026-09-24",
+      "title": null,
+      "excerpt": "Accurate map, quiet, and the dock hasn't needed emptying yet.",
+      "paraphrase": true
+     },
+     {
+      "author": "Robin",
+      "stars": 4,
+      "date": "2026-09-16",
+      "title": null,
+      "excerpt": "Good navigation; average noise.",
+      "paraphrase": true
+     },
+     {
+      "author": "Ashley Curtsinger",
+      "stars": 5,
+      "date": "2026-09-12",
+      "title": null,
+      "excerpt": "Exceeded expectations with four dogs.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "dreame-d20-air-plus",
+   "asin": "B0G5Y3LN8M",
+   "name": "Dreame D20 Air Plus",
+   "brand": "Dreame",
+   "model": "D20 Air Plus",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4AGXrIW",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0G5Y3LN8M",
+   "images": [
+    "617kvBl-umL",
+    "816siq7ZevL",
+    "71TexAjE+uL",
+    "81vQRb2f5TL",
+    "816ububaMAL",
+    "71xfZD+C-fL",
+    "71piznpOlQL",
+    "71lzjii-k2L"
+   ],
+   "tags": [
+    "budget",
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best budget pick",
+   "seller": "Amazon.com",
+   "price": 227.99,
+   "list_price": 349.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 700+ bought last month",
+   "rating": 4.2,
+   "reviews_count": 3650,
+   "rating_breakdown": {
+    "5": 66,
+    "4": 14,
+    "3": 6,
+    "2": 4,
+    "1": 10
+   },
+   "specs": {
+    "suction_pa": 20000,
+    "runtime_min": 150,
+    "battery_mah": 3200,
+    "height_in": 3.73,
+    "climb_in": null,
+    "navigation": "LiDAR",
+    "obstacle_avoidance": "None (LiDAR + bump sensors)",
+    "mop_type": "Pad, no lift (electronic water tank)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 120,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": null,
+    "voice": "Alexa, Google Home",
+    "warranty": "3 years"
+   },
+   "specs_extra": {
+    "Dust bag": "4 L sealed bag, up to 120 days",
+    "Edge cleaning": "Edge-to-corner path"
+   },
+   "spec_sources": "Amazon listing + ca.dreametech.com (height 94.7 mm, 3,200 mAh, 3-year warranty).",
+   "scores": {
+    "suction": 8,
+    "low_profile": 4,
+    "navigation": 5,
+    "mopping": 3,
+    "hands_free": 6,
+    "pet": 7,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "20,000 Pa and a 120-day dock for under $230.",
+    "summary": "The most suction per dollar in our catalog: 20,000 Pa, LiDAR, anti-tangle brushes and a 4 L self-emptying bag that lasts up to four months — sold by Amazon with a 3-year warranty.",
+    "body": [
+     "The D20 Air Plus takes numbers you used to see on $600 robots — 20,000 Pa of suction and a 120-day self-emptying dock — and sells them for around $230. LiDAR mapping, anti-tangle brushes and edge-focused paths round it out.",
+     "It mops with a simple pad and an electronic water tank at the same time as it vacuums. The pad doesn't lift, so it isn't a real vacuum-and-mop for homes with rugs, and there's no obstacle avoidance beyond bump sensors.",
+     "At 3.73 in tall it slips under most furniture. Owners find setup quick (one called it under five minutes), though an older review mentions Wi-Fi trouble at first. Dreame backs it with a 3-year warranty, and Amazon sells it directly."
+    ],
+    "pros": [
+     "20,000 Pa suction",
+     "120-day self-emptying bag",
+     "Anti-tangle brushes",
+     "3-year warranty, sold by Amazon"
+    ],
+    "cons": [
+     "No obstacle avoidance",
+     "Basic mop, no lift",
+     "3,200 mAh battery"
+    ],
+    "ideal_for": "Most homes that want strong vacuuming and hands-free emptying on a budget.",
+    "not_for": "Anyone who wants proper mopping or a robot that dodges clutter.",
+    "verdict": "Our top budget pick: flagship suction and a four-month dock for under $250.",
+    "review_summary": "4.2★ from 3,650 ratings (80% 4–5 stars). Owners praise the strong suction, easy mapping and large dust bag, and say it's quieter than older Dreames. One long-term owner had trouble connecting to Wi-Fi at first but says it works great afterwards.",
+    "reviews": [
+     {
+      "author": "Estefanie",
+      "stars": 5,
+      "date": "2026-08-24",
+      "title": null,
+      "excerpt": "Very affordable; maps rooms easily and cleans thoroughly.",
+      "paraphrase": true
+     },
+     {
+      "author": "Ashley S",
+      "stars": 5,
+      "date": "2026-09-01",
+      "title": null,
+      "excerpt": "Set up and on Wi-Fi in under five minutes.",
+      "paraphrase": true
+     },
+     {
+      "author": "charity",
+      "stars": 5,
+      "date": "2026-09-03",
+      "title": null,
+      "excerpt": "Quieter than their older Dreame.",
+      "paraphrase": true
+     },
+     {
+      "author": "C. C. Jones",
+      "stars": 4,
+      "date": "2023-01-02",
+      "title": null,
+      "excerpt": "Hard to connect to Wi-Fi at first, then works great.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "roborock-q7-m5-plus",
+   "asin": "B0DWX69JVG",
+   "name": "Roborock Q7 M5+",
+   "brand": "Roborock",
+   "model": "Q7 M5+",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4hskBdb",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0DWX69JVG",
+   "images": [
+    "61EOq1YWmnL",
+    "71CXSnKsqzL",
+    "71auiEZ+gQL",
+    "71d-qs1JM7L",
+    "71fTUXqZMGL",
+    "71HlcedlDTL",
+    "71R2nlRJD4L",
+    "71ttPTVxUWL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Third-party seller (ships from Amazon)",
+   "price": 299.99,
+   "list_price": 359.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 4K+ bought last month",
+   "rating": 4.0,
+   "reviews_count": 25360,
+   "rating_breakdown": {
+    "5": 61,
+    "4": 13,
+    "3": 7,
+    "2": 5,
+    "1": 14
+   },
+   "specs": {
+    "suction_pa": 10000,
+    "runtime_min": 150,
+    "battery_mah": 3200,
+    "height_in": 3.9,
+    "climb_in": 0.79,
+    "navigation": "PreciSense LiDAR",
+    "obstacle_avoidance": "None (LiDAR + bump sensors)",
+    "mop_type": "Detachable pad (vacuum and mop together)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 49,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": 65,
+    "voice": "Alexa, Google Home",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Dust bag": "2.7 L sealed bag, 7–9 weeks",
+    "Brushes": "JawScrapers main brush + zero-tangle side brush",
+    "Water": "3 flow levels"
+   },
+   "spec_sources": "Amazon listing + us.roborock.com (height 3.9 in, 2 cm climbing, 3,200 mAh). Listing includes reviews of earlier Roborock models.",
+   "scores": {
+    "suction": 6,
+    "low_profile": 3,
+    "navigation": 5,
+    "mopping": 3,
+    "hands_free": 5,
+    "pet": 7,
+    "value": 7
+   },
+   "editorial": {
+    "tagline": "Roborock's best-selling self-emptying robot, with 25,000+ ratings.",
+    "summary": "10,000 Pa, PreciSense LiDAR, dual anti-tangle brushes and a RockDock that holds 7–9 weeks of debris — a proven, simple self-emptying robot.",
+    "body": [
+     "The Q7 M5+ is the upgrade to Roborock's long-running Q5 Max+. It pairs 10,000 Pa of suction and PreciSense LiDAR mapping with a self-emptying dock whose 2.7 L bag lasts about seven to nine weeks.",
+     "Its JawScrapers main brush and zero-tangle side brush are designed for pet hair. It can mop at the same time with a detachable pad and three water levels, but owners say to keep expectations realistic: you wash the pad by hand, and there's no obstacle avoidance.",
+     "At 3.9 in tall with 2 cm threshold climbing, it suits most homes. It's one of the most-reviewed robots on Amazon (though the listing includes reviews of older models), and it's sold by a third-party seller shipping from Amazon."
+    ],
+    "pros": [
+     "Self-emptying (7–9 weeks)",
+     "Anti-tangle brushes for pet hair",
+     "Reliable LiDAR mapping",
+     "25,000+ ratings"
+    ],
+    "cons": [
+     "No obstacle avoidance",
+     "Mop pad is washed by hand",
+     "Louder (65 dB)",
+     "Dust bags fill quickly"
+    ],
+    "ideal_for": "Pet homes that want dependable vacuuming and hands-free emptying.",
+    "not_for": "Anyone who wants real mopping or clutter avoidance.",
+    "verdict": "A proven self-emptying workhorse, but the Dreame D20 Air Plus gives more for less.",
+    "review_summary": "4.0★ from 25,360 ratings (74% 4–5 stars). Owners like the fast LiDAR mapping (one mapped a whole floor in under 20 minutes) and strong suction. They note the mop pad must be washed by hand and that the dust bags fill quickly. The listing includes reviews of earlier models.",
+    "reviews": [
+     {
+      "author": "Dominic",
+      "stars": 5,
+      "date": "2026-09-16",
+      "title": null,
+      "excerpt": "Mapped the floor plan in under 20 minutes; keep mopping expectations realistic.",
+      "paraphrase": true
+     },
+     {
+      "author": "Seunghyun Lee",
+      "stars": 4,
+      "date": "2026-07-17",
+      "title": null,
+      "excerpt": "Solid budget option, but you wash the mop pad by hand.",
+      "paraphrase": true
+     },
+     {
+      "author": "D. Kodgis",
+      "stars": 5,
+      "date": "2023-11-26",
+      "title": null,
+      "excerpt": "Cleans so well the bag fills fast — buy spare bags.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "mova-p10-pro-ultra-gen2",
+   "asin": "B0G1RZHD6Q",
+   "name": "MOVA P10 Pro Ultra Gen 2",
+   "brand": "MOVA",
+   "model": "P10 Pro Ultra Gen 2",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4hfygp5",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0G1RZHD6Q",
+   "images": [
+    "513N30HO1wL",
+    "81u8vfPgpfL",
+    "719l0WzbkvL",
+    "71gdJH1caaL",
+    "81qy17CjMlL",
+    "81Ny9DAgg7L",
+    "713nNjTr3IL",
+    "81DVFDNnMyL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best value all-in-one",
+   "seller": "Amazon.com",
+   "price": 427.0,
+   "list_price": 599.0,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 400+ bought last month",
+   "rating": 4.1,
+   "reviews_count": 335,
+   "rating_breakdown": {
+    "5": 67,
+    "4": 11,
+    "3": 5,
+    "2": 3,
+    "1": 14
+   },
+   "specs": {
+    "suction_pa": 26000,
+    "runtime_min": 210,
+    "battery_mah": 5200,
+    "height_in": 4.09,
+    "climb_in": null,
+    "navigation": "LiDAR",
+    "obstacle_avoidance": "Front line laser",
+    "mop_type": "Dual spinning pads (12 N, 260 RPM)",
+    "mop_lift_mm": 10.5,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 100,
+    "mop_wash": true,
+    "hot_water_f": 212,
+    "hot_air_dry": true,
+    "auto_refill": false,
+    "noise_db": null,
+    "voice": "Alexa, Google Home",
+    "warranty": "3 years"
+   },
+   "specs_extra": {
+    "Dock tanks": "4.5 L clean / 4 L dirty water",
+    "Detergent": "Auto-dispense module",
+    "Brushes": "V-shaped rubber main brush, optional CleanChop brush, anti-tangle omni wheel"
+   },
+   "spec_sources": "Amazon listing + us.mova.tech (height 4.09 in, 5,200 mAh, 3-year warranty) + Vacuum Wars (210 min runtime).",
+   "scores": {
+    "suction": 9,
+    "low_profile": 1,
+    "navigation": 6,
+    "mopping": 8,
+    "hands_free": 9,
+    "pet": 8,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "A full self-washing, self-emptying station for about $430.",
+    "summary": "26,000 Pa, dual spinning mops that lift 10.5 mm and reach edges, 212°F hot-water mop washing, hot-air drying and a 100-day dust bag — the cheapest all-in-one dock in our catalog.",
+    "body": [
+     "MOVA (a Dreame sister brand) packs a flagship-style dock into a mid-range price. The station empties the robot into a 3.2 L bag for up to 100 days, washes the mops with 212°F water, dries them with hot air and dispenses detergent automatically.",
+     "The robot has 26,000 Pa of suction, a triple anti-tangle system for pet hair and two spinning mops that press down with 12 N, extend toward walls and lift 10.5 mm over rugs. A front line laser handles obstacle detection, which is a step below the camera systems on pricier robots.",
+     "At 4.09 in it's one of the taller robots here, so check your sofa clearance. Owners with pets call it the best bang for the buck, while one reviewer warns to read the warranty terms carefully after a failure; MOVA lists a 3-year warranty."
+    ],
+    "pros": [
+     "All-in-one dock with 212°F mop washing and hot-air drying",
+     "26,000 Pa + anti-tangle system",
+     "Mops lift 10.5 mm and reach edges",
+     "3-year warranty, sold by Amazon"
+    ],
+    "cons": [
+     "4.09 in tall",
+     "Basic line-laser obstacle detection",
+     "14% 1-star ratings"
+    ],
+    "ideal_for": "Mixed-floor homes and pet owners who want a fully hands-free station on a mid budget.",
+    "not_for": "Low furniture (under ~4.2 in) or cluttered floors.",
+    "verdict": "The cheapest full-feature dock we've seen — outstanding value if it fits under your furniture.",
+    "review_summary": "4.1★ from 335 ratings (78% 4–5 stars). Owners praise the suction on pet hair, the hot-water mop washing and the value compared with pricier robots; one says it lifts its mops over mats. A 1-star reviewer warns buyers to check the warranty after a failure.",
+    "reviews": [
+     {
+      "author": "John Cullen",
+      "stars": 5,
+      "date": "2026-07-14",
+      "title": null,
+      "excerpt": "After lots of research, the best option for the price.",
+      "paraphrase": true
+     },
+     {
+      "author": "Roger",
+      "stars": 5,
+      "date": "2026-06-24",
+      "title": null,
+      "excerpt": "Great suction on dog hair, carpets and hard floors.",
+      "paraphrase": true
+     },
+     {
+      "author": "Erin B.",
+      "stars": 5,
+      "date": "2026-08-27",
+      "title": null,
+      "excerpt": "Lifts the mops over low mats; once got caught on a phone charger.",
+      "paraphrase": true
+     },
+     {
+      "author": "Jan Holder",
+      "stars": 1,
+      "date": "2026-06-09",
+      "title": null,
+      "excerpt": "Loved it until it failed — check the warranty terms.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "dreame-l40-ultra-gen2",
+   "asin": "B0FSJPFDPV",
+   "name": "Dreame L40 Ultra Gen 2",
+   "brand": "Dreame",
+   "model": "L40 Ultra Gen 2",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4yhGUJw",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0FSJPFDPV",
+   "images": [
+    "61hMADKz9DL",
+    "81-uYMN20-L",
+    "81XxD+9bgHL",
+    "81rN8kheRYL",
+    "81duNU6y38L",
+    "71mepTNMvaL",
+    "71QPpsn-NtL",
+    "81nWahOTQgL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best all-rounder",
+   "seller": "Amazon.com",
+   "price": 499.99,
+   "list_price": 749.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.3,
+   "reviews_count": 612,
+   "rating_breakdown": {
+    "5": 73,
+    "4": 11,
+    "3": 5,
+    "2": 2,
+    "1": 9
+   },
+   "specs": {
+    "suction_pa": 25000,
+    "runtime_min": 231,
+    "battery_mah": 5200,
+    "height_in": 3.82,
+    "climb_in": 0.79,
+    "navigation": "LiDAR (Smart Pathfinder)",
+    "obstacle_avoidance": "3D structured light (3DAdapt)",
+    "mop_type": "Dual spinning pads (extendable)",
+    "mop_lift_mm": 10.5,
+    "edge_reach": true,
+    "anti_tangle": null,
+    "self_empty": true,
+    "dock_days": null,
+    "mop_wash": true,
+    "hot_water_f": null,
+    "hot_air_dry": true,
+    "auto_refill": false,
+    "noise_db": null,
+    "voice": "Alexa, Siri, Google Home",
+    "warranty": "3 years"
+   },
+   "specs_extra": {
+    "Carpet modes": "Carpet avoidance, suction boost, intensive carpet cleaning, 10.5 mm mop lift",
+    "Coverage": "Up to 1,679 ft² in quiet mode (Dreame)",
+    "Detergent": "Optional auto-dispenser module (sold separately)",
+    "Wi-Fi": "2.4 GHz only"
+   },
+   "spec_sources": "Amazon listing + dreametech.com (height 9.7 cm, 2 cm climbing, 5,200 mAh, 3-year warranty).",
+   "scores": {
+    "suction": 9,
+    "low_profile": 3,
+    "navigation": 7,
+    "mopping": 8,
+    "hands_free": 8,
+    "pet": 7,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "Flagship cleaning with extendable brush and mop for $500.",
+    "summary": "25,000 Pa, a side brush and mop that extend into corners, structured-light obstacle avoidance, 231 minutes of runtime and a self-emptying, self-washing, hot-air-drying dock — sold by Amazon with a 3-year warranty.",
+    "body": [
+     "The L40 Ultra Gen 2 is Dreame's best-selling all-rounder. Both the side brush and one of the spinning mops swing outward to reach corners and under cabinet edges, which owners single out as its best trick.",
+     "25,000 Pa of suction with four carpet modes, 10.5 mm mop lifting and structured-light obstacle avoidance make it comfortable in mixed-floor homes. Its 5,200 mAh battery is rated for up to 231 minutes (about 1,679 ft² in quiet mode).",
+     "The dock empties the bin, washes the mops and dries them with hot air; an auto-detergent module is an optional extra. At $500 (from $750) it's one of the best-reviewed all-in-one robots in its price range, with 84% 4–5 star ratings."
+    ],
+    "pros": [
+     "Extending side brush and mop for corners",
+     "25,000 Pa with carpet modes",
+     "231-minute runtime",
+     "3-year warranty, sold by Amazon"
+    ],
+    "cons": [
+     "Detergent dispenser costs extra",
+     "2.4 GHz Wi-Fi only",
+     "One long-term owner wants more battery"
+    ],
+    "ideal_for": "Most homes with hard floors and some rugs that want one robot to do everything.",
+    "not_for": "Furniture lower than about 3.9 in.",
+    "verdict": "Our favorite all-rounder: flagship features at a mid-range price.",
+    "review_summary": "4.3★ from 612 ratings (84% 4–5 stars). Owners praise the strong suction, even mopping, corner cleaning and slim dock. A two-year owner wishes the battery lasted longer. Former Roomba users say it's a big step up.",
+    "reviews": [
+     {
+      "author": "Hong",
+      "stars": 5,
+      "date": "2026-09-23",
+      "title": null,
+      "excerpt": "Cleans edges and corners really well; easy app.",
+      "paraphrase": true
+     },
+     {
+      "author": "Jen",
+      "stars": 5,
+      "date": "2026-05-02",
+      "title": null,
+      "excerpt": "Switched after 15 years of Roomba and Braava — very thorough.",
+      "paraphrase": true
+     },
+     {
+      "author": "Pea",
+      "stars": 5,
+      "date": "2026-09-21",
+      "title": null,
+      "excerpt": "Slim dock that fits a small space.",
+      "paraphrase": true
+     },
+     {
+      "author": "Karen Palbrach",
+      "stars": 4,
+      "date": "2026-07-19",
+      "title": null,
+      "excerpt": "Two years with no issues; wishes the battery lasted longer.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "roborock-qrevo-s-pro",
+   "asin": "B0GGRSMXKN",
+   "name": "Roborock Qrevo S Pro",
+   "brand": "Roborock",
+   "model": "Qrevo S Pro",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4rwOcXo",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0GGRSMXKN",
+   "images": [
+    "61dUJLJCe5L",
+    "819FG8Lj85L",
+    "81GGmqSX9ML",
+    "81LZ7OHUlSL",
+    "81L-rfJ4UBL",
+    "81e90bF-3wL",
+    "81VYcTxG+HL",
+    "819pD1W9uUL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best seller",
+   "seller": "Third-party seller (ships from Amazon)",
+   "price": 499.99,
+   "list_price": 699.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 6K+ bought last month",
+   "rating": 4.1,
+   "reviews_count": 6413,
+   "rating_breakdown": {
+    "5": 68,
+    "4": 8,
+    "3": 6,
+    "2": 5,
+    "1": 13
+   },
+   "specs": {
+    "suction_pa": 18500,
+    "runtime_min": 180,
+    "battery_mah": 5200,
+    "height_in": 3.8,
+    "climb_in": null,
+    "navigation": "LiDAR (multi-floor maps)",
+    "obstacle_avoidance": "Structured light (Reactive Tech)",
+    "mop_type": "Dual spinning pads (liftable)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 49,
+    "mop_wash": true,
+    "hot_water_f": 167,
+    "hot_air_dry": true,
+    "auto_refill": true,
+    "noise_db": 60,
+    "voice": "Alexa, Siri, Google Home",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Dust bag": "2.7 L, 7–9 weeks",
+    "Mop drying": "113°F warm air",
+    "Brushes": "Zero-tangle side brush, all-rubber main brush, easy-clean omni wheel"
+   },
+   "spec_sources": "Amazon listing + us.roborock.com (height 3.8 in, 5,200 mAh, 1-year warranty). Listing shares reviews with related Roborock models.",
+   "scores": {
+    "suction": 8,
+    "low_profile": 4,
+    "navigation": 7,
+    "mopping": 8,
+    "hands_free": 9,
+    "pet": 8,
+    "value": 8
+   },
+   "editorial": {
+    "tagline": "Amazon's best-selling all-in-one dock robot.",
+    "summary": "18,500 Pa, zero-tangle brushes, liftable spinning mops, structured-light obstacle avoidance and a dock that empties, refills, washes mops at 167°F and dries them — with 6,000+ bought a month.",
+    "body": [
+     "The Qrevo S Pro is the robot most shoppers end up with in the $500 range. Its dock empties the dust bin, refills the robot's water, washes the mops with 167°F water and dries them with warm air, so day-to-day maintenance is limited to changing a bag every couple of months.",
+     "18,500 Pa of suction with zero-tangle side and main brushes handles pet hair well — one owner with a husky, an Aussie and a cat calls it the best Amazon purchase in years. Reactive Tech structured light avoids shoes and toys, and the mops lift for carpets.",
+     "At 3.8 in tall it fits under most beds. The main complaint is software: a 1-star owner of eight months says firmware problems made the robot unreliable. It's sold by a third-party seller, and the listing mixes in reviews of related models."
+    ],
+    "pros": [
+     "Full dock: empty, refill, 167°F wash, warm-air dry",
+     "Zero-tangle brushes for pets",
+     "Structured-light obstacle avoidance",
+     "Huge sales and review base"
+    ],
+    "cons": [
+     "Some owners report firmware glitches",
+     "1-year warranty",
+     "Sold by a third-party seller"
+    ],
+    "ideal_for": "Pet households that want a fully hands-free robot at a mainstream price.",
+    "not_for": "Anyone who wants a longer warranty (Dreame and MOVA offer 3 years).",
+    "verdict": "A safe, popular all-in-one pick — the L40 Gen 2 edges it on corners and warranty.",
+    "review_summary": "4.1★ from 6,413 ratings (76% 4–5 stars). Owners with multiple pets and multi-level homes are very happy, and long-time robot owners call it their best yet. The main complaint is firmware and app reliability after several months.",
+    "reviews": [
+     {
+      "author": "Paws & Passports",
+      "stars": 5,
+      "date": "2026-07-08",
+      "title": null,
+      "excerpt": "Husky, Aussie and a cat in 1,200 sq ft — best purchase in years.",
+      "paraphrase": true
+     },
+     {
+      "author": "Randall Gud",
+      "stars": 5,
+      "date": "2026-08-16",
+      "title": null,
+      "excerpt": "Twenty years of robot vacuums; floors have never been cleaner.",
+      "paraphrase": true
+     },
+     {
+      "author": "C. Hilliard",
+      "stars": 4,
+      "date": "2026-06-29",
+      "title": null,
+      "excerpt": "First robot; about ten minutes from box to dock.",
+      "paraphrase": true
+     },
+     {
+      "author": "Elise H Schmidt",
+      "stars": 1,
+      "date": "2026-07-22",
+      "title": null,
+      "excerpt": "Firmware and software problems after eight months.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecovacs-deebot-t90-pro-omni",
+   "asin": "B0GJ5S4V78",
+   "name": "ECOVACS DEEBOT T90 Pro Omni",
+   "brand": "ECOVACS",
+   "model": "DEEBOT T90 Pro Omni",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/3VDvUYB",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0GJ5S4V78",
+   "images": [
+    "61-M5e2C4LL",
+    "81PWb9g5pKL",
+    "81kLEJa1ffL",
+    "81Zrhy9TBHL",
+    "81yjiirJH0L",
+    "81K+v1cMBxL",
+    "81szfgRYqcL",
+    "81xSJqMftyL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best mopping under $500",
+   "seller": "Amazon.com",
+   "price": 499.0,
+   "list_price": 799.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 2K+ bought last month",
+   "rating": 4.2,
+   "reviews_count": 834,
+   "rating_breakdown": {
+    "5": 66,
+    "4": 14,
+    "3": 5,
+    "2": 5,
+    "1": 10
+   },
+   "specs": {
+    "suction_pa": 30000,
+    "runtime_min": 200,
+    "battery_mah": 4000,
+    "height_in": 3.74,
+    "climb_in": 0.94,
+    "navigation": "LiDAR",
+    "obstacle_avoidance": "Structured light + AI camera",
+    "mop_type": "Self-washing roller (10.6 in, OZMO Roller 3.0)",
+    "mop_lift_mm": 15,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": null,
+    "mop_wash": true,
+    "hot_water_f": null,
+    "hot_air_dry": true,
+    "auto_refill": false,
+    "noise_db": 60,
+    "voice": "YIKO, Alexa, Google Home, Siri",
+    "warranty": null
+   },
+   "specs_extra": {
+    "Roller mop": "Rinsed with fresh water while mopping; TruEdge extends 0.6 in",
+    "Thresholds": "24 mm single, 4 cm stacked (ECOVACS)",
+    "Runtime": "Listing: 200 min; ECOVACS: 120 min vacuum-only, 350 min vacuum + mop",
+    "Detergent": "Automatic cleaning-liquid refill"
+   },
+   "spec_sources": "Amazon listing + ecovacs.com/us (height 95 mm, 24 mm climbing, 4,000 mAh, 15 mm mop lift).",
+   "scores": {
+    "suction": 9,
+    "low_profile": 4,
+    "navigation": 8,
+    "mopping": 9,
+    "hands_free": 8,
+    "pet": 8,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "A roller mop that scrubs with clean water, at $499.",
+    "summary": "30,000 Pa, a 10.6-inch roller mop rinsed with fresh water while it cleans, structured light plus AI camera, 15 mm mop lift and a hot-water, hot-air dock — sold by Amazon.",
+    "body": [
+     "The T90 Pro Omni swaps spinning pads for ECOVACS' OZMO Roller: a 10.6-inch roller that's continuously rinsed with clean water and pressed onto the floor, so it scrubs sticky spills instead of smearing them. TruEdge pushes the roller 0.6 in past the body to reach baseboards.",
+     "Suction is 30,000 Pa with ZeroTangle 4.0 brushes, and a structured-light sensor plus AI camera handles obstacles. The roller lifts 15 mm for carpets and it climbs 24 mm thresholds (4 cm when stacked).",
+     "The dock empties the bin, washes the roller with hot water, dries it with hot air and refills detergent. Owners praise its fast, accurate mapping. At $499 (from $800) and sold by Amazon, it's one of the strongest mopping robots per dollar."
+    ],
+    "pros": [
+     "Self-rinsing roller mop scrubs better than pads",
+     "30,000 Pa + ZeroTangle",
+     "AI camera obstacle avoidance",
+     "Climbs 24 mm thresholds"
+    ],
+    "cons": [
+     "Best on hard floors and low-pile carpet",
+     "Warranty length not published on the listing",
+     "Runtime figures vary by source"
+    ],
+    "ideal_for": "Kitchens, pets and kids: homes where mopping sticky messes matters.",
+    "not_for": "Mostly thick-carpet homes.",
+    "verdict": "The best mopper under $500 — a roller that actually scrubs.",
+    "review_summary": "4.2★ from 834 ratings (80% 4–5 stars). Owners praise the accurate, fast mapping, obstacle avoidance and mopping on stubborn dust in homes with kids and pets; several call it a great machine at a great price.",
+    "reviews": [
+     {
+      "author": "Manuel Valle Laborde",
+      "stars": 5,
+      "date": "2026-09-24",
+      "title": null,
+      "excerpt": "Maps the house quickly and accurately; powerful and fast.",
+      "paraphrase": true
+     },
+     {
+      "author": "AB",
+      "stars": 5,
+      "date": "2026-06-21",
+      "title": null,
+      "excerpt": "Incredible machine at an incredible price; clear setup card.",
+      "paraphrase": true
+     },
+     {
+      "author": "cheryl",
+      "stars": 5,
+      "date": "2026-09-04",
+      "title": null,
+      "excerpt": "Avoids furniture instead of bumping into everything.",
+      "paraphrase": true
+     },
+     {
+      "author": "Steve C",
+      "stars": 4,
+      "date": "2026-07-02",
+      "title": null,
+      "excerpt": "Mapping was great; strong first impression.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "roborock-qrevo-2-pro",
+   "asin": "B0GXF7ZQPY",
+   "name": "Roborock Qrevo 2 Pro",
+   "brand": "Roborock",
+   "model": "Qrevo 2 Pro",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4rCL1h5",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0GXF7ZQPY",
+   "images": [
+    "61oLk13zjcL",
+    "71qdZ70yK0L",
+    "71wXY6RQChL",
+    "7197sg5SxRL",
+    "71GVF42LskL",
+    "71ZahJKiyWL",
+    "71YHTiVcu5L",
+    "71Nx7YBWSOL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Third-party seller (ships from Amazon)",
+   "price": 549.98,
+   "list_price": 799.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.3,
+   "reviews_count": 988,
+   "rating_breakdown": {
+    "5": 74,
+    "4": 8,
+    "3": 4,
+    "2": 3,
+    "1": 11
+   },
+   "specs": {
+    "suction_pa": 20000,
+    "runtime_min": 253,
+    "battery_mah": null,
+    "height_in": 3.8,
+    "climb_in": null,
+    "navigation": "LiDAR",
+    "obstacle_avoidance": "Structured light (Reactive Tech)",
+    "mop_type": "Dual spinning pads (auto-detach)",
+    "mop_lift_mm": 15,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": null,
+    "mop_wash": true,
+    "hot_water_f": null,
+    "hot_air_dry": true,
+    "auto_refill": false,
+    "noise_db": 54,
+    "voice": "Alexa, Siri, Google Home",
+    "warranty": null
+   },
+   "specs_extra": {
+    "FlexiArm": "Edge mop reaches within 1.85 mm of walls",
+    "Carpets": "Removes mops automatically, vacuums carpet before mopping",
+    "Mop washing": "High-temperature self-cleaning; 113°F warm-air drying"
+   },
+   "spec_sources": "Amazon listing + us.roborock.com/pages/roborock-qrevo-2-pro (height 3.80 in, 15 mm mop lift). Listing includes Qrevo Pro reviews from 2024–2025.",
+   "scores": {
+    "suction": 8,
+    "low_profile": 4,
+    "navigation": 7,
+    "mopping": 9,
+    "hands_free": 8,
+    "pet": 8,
+    "value": 8
+   },
+   "editorial": {
+    "tagline": "Roborock's 2026 all-rounder: auto-detaching mops and FlexiArm edges.",
+    "summary": "20,000 Pa, zero-tangle brushes, FlexiArm edge mopping, mops that lift 15 mm or detach for carpets, a 253-minute battery and a hot-wash, warm-air-dry dock.",
+    "body": [
+     "The Qrevo 2 Pro is the 2026 update to Roborock's Qrevo Pro. Its biggest upgrade for mixed floors is carpet handling: it can drop its mops at the dock, vacuum carpets first and lift the mops up to 15 mm when it has to cross rugs.",
+     "The FlexiArm edge mop swings out to within 1.85 mm of walls and cabinet kick plates, and a reversible side brush reaches into corners. 20,000 Pa of suction with the Dual Zero-Tangle system handles long hair, and structured-light obstacle avoidance steers around shoes and toys.",
+     "Rated for 253 minutes and 54 dB, it's long-running and quiet. Owners of the Qrevo Pro line praise the edge mopping; one 1-star reviewer had a LiDAR failure after about 18 months. It's sold by a third-party seller."
+    ],
+    "pros": [
+     "Auto-detaching mops and 15 mm lift",
+     "FlexiArm edge mopping",
+     "253-minute runtime, 54 dB",
+     "Zero-tangle brushes"
+    ],
+    "cons": [
+     "Sold by a third-party seller",
+     "Warranty not listed",
+     "Listing includes older-model reviews"
+    ],
+    "ideal_for": "Homes with lots of rugs and hard floors that want the best carpet handling in the mid range.",
+    "not_for": "Buyers who prefer Amazon as the seller.",
+    "verdict": "The smartest carpet handling under $600 — a step up from the Qrevo S Pro.",
+    "review_summary": "4.3★ from 988 ratings (82% 4–5 stars). Owners praise the edge mopping along walls and kick plates, real mopping coverage and navigation in homes with nooks and built-ins. One 1-star review reports a LiDAR failure after about 18 months on an older Qrevo Pro.",
+    "reviews": [
+     {
+      "author": "Beach Bum 312",
+      "stars": 5,
+      "date": "2026-01-10",
+      "title": null,
+      "excerpt": "FlexiArm cleans along walls and under cabinet kick plates; happy after a year.",
+      "paraphrase": true
+     },
+     {
+      "author": "Mark",
+      "stars": 5,
+      "date": "2026-02-04",
+      "title": null,
+      "excerpt": "First robot that actually mops properly.",
+      "paraphrase": true
+     },
+     {
+      "author": "Victoria Bell",
+      "stars": 5,
+      "date": "2024-07-07",
+      "title": null,
+      "excerpt": "Handles a Victorian home full of nooks and bays.",
+      "paraphrase": true
+     },
+     {
+      "author": "Michael",
+      "stars": 1,
+      "date": "2026-05-18",
+      "title": null,
+      "excerpt": "LiDAR failed after about a year and a half.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "irobot-roomba-max-715",
+   "asin": "B0H4WXSXHS",
+   "name": "iRobot Roomba Max 715",
+   "brand": "iRobot",
+   "model": "Roomba Max 715 vac",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/47sen8h",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0H4WXSXHS",
+   "images": [
+    "71KKtInj20L",
+    "81VpaW5ix6L",
+    "818pHWuOArL",
+    "81voMiJU0WL",
+    "91mxv7imL0L",
+    "91mnV2Um9dL",
+    "91nIbXAp82L",
+    "815jG5hhcUL"
+   ],
+   "tags": [
+    "pets",
+    "vacuum-only"
+   ],
+   "featured": false,
+   "badge": "Best for pet hair",
+   "seller": "Amazon.com",
+   "price": 599.99,
+   "list_price": 699.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.2,
+   "reviews_count": 2843,
+   "rating_breakdown": {
+    "5": 64,
+    "4": 15,
+    "3": 9,
+    "2": 4,
+    "1": 8
+   },
+   "specs": {
+    "suction_pa": 30000,
+    "runtime_min": 120,
+    "battery_mah": 6000,
+    "height_in": 4.13,
+    "climb_in": null,
+    "navigation": "ClearView Pro LiDAR",
+    "obstacle_avoidance": "AI camera (PrecisionVision)",
+    "mop_type": "None (vacuum only)",
+    "mop_lift_mm": null,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 90,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": null,
+    "voice": "Alexa, Google Home",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Brushes": "Dual rubber anti-tangle brushes + anti-tangle edge-sweeping brush",
+    "Bags": "AllergenLock odor-control bags (about 4 per year)",
+    "Battery": "6,000 mAh LFP (iRobot)",
+    "Carpet": "Carpet Boost, dirt detection"
+   },
+   "spec_sources": "Amazon listing (dimensions 13.77 × 13.58 × 4.13 in, 120 min) + irobot.com (6,000 mAh LFP, 1-year warranty). Listing includes older Roomba reviews.",
+   "scores": {
+    "suction": 9,
+    "low_profile": 1,
+    "navigation": 8,
+    "mopping": null,
+    "hands_free": 6,
+    "pet": 9,
+    "value": 7
+   },
+   "editorial": {
+    "tagline": "iRobot's pet-hair specialist: dual rubber brushes, 30,000 Pa, no mop.",
+    "summary": "A vacuum-only Roomba built for pet hair: dual rubber anti-tangle brushes, 30,000 Pa, LiDAR plus AI-camera obstacle avoidance and a 90-day AutoEmpty dock with odor-control bags.",
+    "body": [
+     "The Roomba Max 715 is for people who want vacuuming done extremely well and don't need mopping. iRobot's dual rubber brushes flex to stay in contact with carpet and hard floors, and resist hair wrap better than bristle brushes — the reason pet owners have long favored Roombas.",
+     "It pairs 30,000 Pa and Carpet Boost with ClearView Pro LiDAR mapping and PrecisionVision AI obstacle avoidance, which spots cords and pet messes. The AutoEmpty dock holds about 90 days of debris in AllergenLock bags that trap odors.",
+     "At 4.13 in it's the tallest robot here, so check clearance under your furniture. Owners with carpeted upstairs floors and those burned by cheaper robots getting stuck are the happiest; runtime is 120 minutes."
+    ],
+    "pros": [
+     "Dual rubber brushes excel on pet hair",
+     "AI camera avoids cords and pet messes",
+     "90-day odor-control dock",
+     "Sold by Amazon"
+    ],
+    "cons": [
+     "No mopping",
+     "4.13 in tall",
+     "120-minute runtime",
+     "1-year warranty"
+    ],
+    "ideal_for": "Carpeted homes and heavy shedders that don't need mopping.",
+    "not_for": "Hard-floor homes that want mopping, or low furniture.",
+    "verdict": "The best pure vacuum for pet hair — skip it if you want mopping.",
+    "review_summary": "4.2★ from 2,843 ratings (79% 4–5 stars). Owners praise it on carpet and say it doesn't get stuck like the generic robots they tried; the compact dock is a plus. Older reviews in the listing mention app issues on previous Roomba models.",
+    "reviews": [
+     {
+      "author": "Salvador Castaneda",
+      "stars": 5,
+      "date": "2026-09-25",
+      "title": null,
+      "excerpt": "After generic robovacs kept getting stuck, this one just works.",
+      "paraphrase": true
+     },
+     {
+      "author": "Amazon Customer",
+      "stars": 5,
+      "date": "2026-09-21",
+      "title": null,
+      "excerpt": "Great on a mostly carpeted floor; compact dock.",
+      "paraphrase": true
+     },
+     {
+      "author": "Maya",
+      "stars": 5,
+      "date": "2026-09-03",
+      "title": null,
+      "excerpt": "Best purchase ever.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "narwal-freo-20-edge",
+   "asin": "B0H414WGY7",
+   "name": "Narwal Freo 20 Edge",
+   "brand": "Narwal",
+   "model": "Freo 20 Edge",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4xHlOmN",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0H414WGY7",
+   "images": [
+    "61FfcjCBVIL",
+    "61qOCmXP0iL",
+    "81W9KFVMa0L",
+    "81GgoYWYIvL",
+    "91aG6obT7LL",
+    "81hf3z6lFCL",
+    "71iBfiAySKL",
+    "81C2Ti9epfL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Third-party seller (ships from Amazon)",
+   "price": 699.0,
+   "list_price": 799.0,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 100+ bought last month",
+   "rating": 4.9,
+   "reviews_count": 35,
+   "rating_breakdown": {
+    "5": 94,
+    "4": 6,
+    "3": 0,
+    "2": 0,
+    "1": 0
+   },
+   "specs": {
+    "suction_pa": 31000,
+    "runtime_min": 210,
+    "battery_mah": 5200,
+    "height_in": 3.74,
+    "climb_in": null,
+    "navigation": null,
+    "obstacle_avoidance": "3D structured light (150+ object types)",
+    "mop_type": "Track (roller) mop, 10.5 in, self-rinsing",
+    "mop_lift_mm": 12,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 120,
+    "mop_wash": true,
+    "hot_water_f": null,
+    "hot_air_dry": true,
+    "auto_refill": false,
+    "noise_db": 55.8,
+    "voice": null,
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "FlowWash mop": "16 nozzles, 80 RPM, 12 N; dirty water recycled in real time",
+    "Edge": "Mop extends 1.9 in",
+    "Hair": "Floating roller brush + auto-reversing side brush, handles 15.7 in hair",
+    "Coverage": "Up to 2,390 ft² per charge (Narwal)"
+   },
+   "spec_sources": "Amazon listing (height 3.74 in, 210 min, 55.8 dB, 1-year warranty) + us.narwal.com (5,200 mAh, 12 mm lift). New listing: only 35 ratings, posted within a few weeks.",
+   "scores": {
+    "suction": 10,
+    "low_profile": 4,
+    "navigation": 7,
+    "mopping": 9,
+    "hands_free": 8,
+    "pet": 9,
+    "value": 7
+   },
+   "editorial": {
+    "tagline": "A 10.5-inch track mop and 31,000 Pa in a 3.74 in body.",
+    "summary": "31,000 Pa, a wide FlowWash track mop that rinses itself as it cleans, a tangle-free brush for long hair, a 120-day dock with warm-air drying — very new, with only 35 ratings.",
+    "body": [
+     "Narwal's Freo 20 Edge uses a 10.5-inch track mop fed by 16 water nozzles and pressed down with 12 N. A scraper pulls dirty water off the mop in real time, so it keeps scrubbing with clean water — similar in spirit to ECOVACS' roller.",
+     "Suction is 31,000 Pa, the highest in its price range, and the DualFlow tangle-free system is rated for hair up to 15.7 in long. The mop extends 1.9 in toward baseboards and lifts 12 mm, and structured light recognizes 150+ object types.",
+     "The dock holds 120 days of dust and dries the mop with 113°F air. It's promising, but the listing is new: all 35 ratings were posted within a few weeks, which is too few to judge long-term reliability. It's sold by a third-party seller."
+    ],
+    "pros": [
+     "31,000 Pa suction",
+     "Self-rinsing 10.5 in track mop",
+     "Tangle-free for long hair",
+     "Quiet (55.8 dB), 3.74 in tall"
+    ],
+    "cons": [
+     "Only 35 ratings so far",
+     "1-year warranty",
+     "Sold by a third-party seller"
+    ],
+    "ideal_for": "Early adopters with long-haired pets and lots of hard floors.",
+    "not_for": "Buyers who want a long track record.",
+    "verdict": "Impressive on paper; wait for more owner reviews or buy knowing it's new.",
+    "review_summary": "4.9★ from 35 ratings, all posted within a few weeks of launch — too early to judge reliability. Owners with several cats and dogs praise the pet mode, the extendable mop along walls and how it avoids boxes and clutter.",
+    "reviews": [
+     {
+      "author": "GiaaaLau",
+      "stars": 5,
+      "date": "2026-08-31",
+      "title": null,
+      "excerpt": "Three cats and two dogs; impressed after two days.",
+      "paraphrase": true
+     },
+     {
+      "author": "lzosx",
+      "stars": 5,
+      "date": "2026-09-04",
+      "title": null,
+      "excerpt": "The extendable mop hugs walls and furniture.",
+      "paraphrase": true
+     },
+     {
+      "author": "Yuki",
+      "stars": 5,
+      "date": "2026-09-04",
+      "title": null,
+      "excerpt": "Avoids moving boxes and random clutter well.",
+      "paraphrase": true
+     },
+     {
+      "author": "xiuli lin",
+      "stars": 5,
+      "date": "2026-09-12",
+      "title": null,
+      "excerpt": "Second Narwal; bought for parents who love it.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "shark-powerdetect-nevertouch-pro",
+   "asin": "B0FJCKFVBF",
+   "name": "Shark PowerDetect NeverTouch Pro",
+   "brand": "Shark",
+   "model": "PowerDetect 2-in-1 (AV2810ZEWH)",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4hQ1vyR",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0FJCKFVBF",
+   "images": [
+    "71hOFC3E4LL",
+    "81et1h3P5kL",
+    "81xcEY76vPL",
+    "81KLlvNjZpL",
+    "819o7D4x+RL",
+    "810BicDYWgL",
+    "91BPFFZZFYL",
+    "81xJylbrPtL"
+   ],
+   "tags": [
+    "pets"
+   ],
+   "featured": false,
+   "badge": "Most hands-free",
+   "seller": "Third-party seller",
+   "price": 1199.99,
+   "list_price": null,
+   "price_date": "2026-09-27",
+   "availability": "Only 2 left in stock · 1K+ bought last month",
+   "rating": 4.0,
+   "reviews_count": 2240,
+   "rating_breakdown": {
+    "5": 62,
+    "4": 13,
+    "3": 6,
+    "2": 4,
+    "1": 15
+   },
+   "specs": {
+    "suction_pa": null,
+    "runtime_min": 120,
+    "battery_mah": null,
+    "height_in": null,
+    "climb_in": 1.5,
+    "navigation": "LiDAR",
+    "obstacle_avoidance": "3D structured light",
+    "mop_type": "Sonic pad (lifts over carpet, left at base when vacuuming)",
+    "mop_lift_mm": null,
+    "edge_reach": true,
+    "anti_tangle": null,
+    "self_empty": true,
+    "dock_days": 60,
+    "mop_wash": true,
+    "hot_water_f": null,
+    "hot_air_dry": true,
+    "auto_refill": true,
+    "noise_db": null,
+    "voice": null,
+    "warranty": "1 year limited"
+   },
+   "specs_extra": {
+    "Self-refill": "Refills the robot's water for up to 30 days",
+    "NeverStuck": "Lifts itself over obstacles and thresholds (about 1.5 in per Vacuum Wars)",
+    "PowerDetect": "DirtDetect, EdgeDetect air jets, pad extends ~1 in",
+    "Filtration": "HEPA base, odor neutralizer",
+    "Suction": "Shark doesn't publish a Pa figure"
+   },
+   "spec_sources": "Amazon listing (120 min) + sharkninja.com (AV2800ZE page) + Vacuum Wars (38 mm climbing). Robot height isn't published separately from the base.",
+   "scores": {
+    "suction": null,
+    "low_profile": null,
+    "navigation": 7,
+    "mopping": 7,
+    "hands_free": 10,
+    "pet": 7,
+    "value": 4
+   },
+   "editorial": {
+    "tagline": "The most hands-free dock here: it refills its own water.",
+    "summary": "Self-empties for 60 days, refills its own water tank for up to 30 days, washes and dries the pad, and lifts itself over thresholds up to about 1.5 in — but at capture it was sold by a third-party seller at a high price.",
+    "body": [
+     "Shark's NeverTouch Pro base does more than most: it empties the robot, refills its water tank automatically for up to 30 days, and washes and dries the mopping pad after each clean. The robot leaves the pad at the base when it only needs to vacuum.",
+     "PowerDetect tech boosts suction on dirty spots, blows air jets to push debris out of edges and extends the pad about an inch while mopping. NeverStuck lets it lift itself over obstacles and thresholds — about 1.5 in in Vacuum Wars' testing, the best climbing in our catalog alongside Dreame's X60.",
+     "Shark doesn't publish suction in Pa or the robot's height, so we can't score those. Owners with heavy shedders are very happy, but 15% of ratings are 1-star (mop failures, clogs, getting stuck). At capture it was $1,199.99 from a third-party seller, well above its usual price — check before buying."
+    ],
+    "pros": [
+     "Auto water refill (up to 30 days)",
+     "Climbs ~1.5 in thresholds",
+     "Pad left at base for vacuum-only runs",
+     "HEPA + odor neutralizer base"
+    ],
+    "cons": [
+     "High third-party price at capture",
+     "Suction (Pa) and height not published",
+     "15% 1-star ratings"
+    ],
+    "ideal_for": "Homes with high thresholds that want the least possible maintenance.",
+    "not_for": "Buyers paying far above the usual price, or low furniture (height unknown).",
+    "verdict": "Genuinely hands-free and a great climber — only worth it at a normal price.",
+    "review_summary": "4.0★ from 2,240 ratings (75% 4–5 stars). Owners with dogs and cats praise how much hair it collects and the hands-free base. Complaints: a mop function that failed after 45 days with little help from support, hair clogs and getting stuck on objects.",
+    "reviews": [
+     {
+      "author": "Tess",
+      "stars": 5,
+      "date": "2026-09-07",
+      "title": null,
+      "excerpt": "Picks up an extraordinary amount of dog hair every day.",
+      "paraphrase": true
+     },
+     {
+      "author": "Verus",
+      "stars": 5,
+      "date": "2026-08-29",
+      "title": null,
+      "excerpt": "Keeps up with a Golden Retriever, a cat and a baby.",
+      "paraphrase": true
+     },
+     {
+      "author": "Morgan",
+      "stars": 3,
+      "date": "2026-04-19",
+      "title": null,
+      "excerpt": "Hair clogs it and it still runs into things.",
+      "paraphrase": true
+     },
+     {
+      "author": "Knappins FamIly",
+      "stars": 1,
+      "date": "2026-07-14",
+      "title": null,
+      "excerpt": "Mop stopped after about 45 days; support didn't help.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "roborock-saros-10r",
+   "asin": "B0DHCJ571Z",
+   "name": "Roborock Saros 10R",
+   "brand": "Roborock",
+   "model": "Saros 10R",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/3TUmrvt",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0DHCJ571Z",
+   "images": [
+    "619xjRMbkSL",
+    "71xaFqOq4NL",
+    "71S6dCyikaL",
+    "918KYIPhHhL",
+    "71v1-EFsyGL",
+    "711LyQ0eK7L",
+    "81Nw4L3Az6L",
+    "71BbT6hD+eL"
+   ],
+   "tags": [
+    "pets",
+    "slim"
+   ],
+   "featured": false,
+   "badge": "Slimmest Roborock",
+   "seller": "Third-party seller (ships from Amazon)",
+   "price": 1099.99,
+   "list_price": 1599.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.0,
+   "reviews_count": 5116,
+   "rating_breakdown": {
+    "5": 61,
+    "4": 12,
+    "3": 7,
+    "2": 5,
+    "1": 15
+   },
+   "specs": {
+    "suction_pa": 22000,
+    "runtime_min": 180,
+    "battery_mah": null,
+    "height_in": 3.14,
+    "climb_in": 1.57,
+    "navigation": "StarSight 2.0 solid-state LiDAR (no turret)",
+    "obstacle_avoidance": "3D sensing + RGB camera (108 object types)",
+    "mop_type": "Twin spinning pads (detachable)",
+    "mop_lift_mm": 22,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": null,
+    "mop_wash": true,
+    "hot_water_f": null,
+    "hot_air_dry": true,
+    "auto_refill": false,
+    "noise_db": 65,
+    "voice": "Hello Rocky, Alexa, Siri, Google Home",
+    "warranty": null
+   },
+   "specs_extra": {
+    "Climbing": "4 cm is Roborock's figure for two stacked thresholds; TechRadar measured about 1 cm on a single step",
+    "Cables": "VertiBeam lateral avoidance cleans along cords",
+    "Re-mop": "Detects heavy soiling and re-washes/re-mops"
+   },
+   "spec_sources": "Amazon listing + us.roborock.com/pages/roborock-saros-10r (79.8 mm height, 22 mm mop lift) + TechRadar review. Listing includes older Roborock reviews.",
+   "scores": {
+    "suction": 8,
+    "low_profile": 10,
+    "navigation": 9,
+    "mopping": 9,
+    "hands_free": 8,
+    "pet": 8,
+    "value": 6
+   },
+   "editorial": {
+    "tagline": "3.14 inches tall: it cleans where turret robots can't.",
+    "summary": "No LiDAR turret, so it's just 3.14 in tall — with 22,000 Pa, camera plus 3D obstacle avoidance that cleans along cables, 22 mm mop lift and a full self-cleaning dock.",
+    "body": [
+     "The Saros 10R replaces the usual LiDAR bump on top with Roborock's StarSight 2.0 solid-state sensors, bringing the robot down to 3.14 in. That's the difference between cleaning under a low sofa or bed and stopping at its edge.",
+     "VertiBeam side sensing and an RGB camera recognize 108 obstacle types and let it clean right along cables instead of avoiding the whole area. 22,000 Pa with zero-tangle brushes handles hair, and the twin mops lift 22 mm or detach for carpet.",
+     "The dock empties, washes and dries. Roborock claims 4 cm climbing over stacked thresholds, but TechRadar measured far less on a single step, so don't count on it for tall thresholds. At $1,100 (from $1,600) from a third-party seller, you pay a premium mainly for the slim body."
+    ],
+    "pros": [
+     "Only 3.14 in tall",
+     "Cleans along cables with camera + 3D sensing",
+     "22 mm mop lift, detachable mops",
+     "22,000 Pa, zero-tangle brushes"
+    ],
+    "cons": [
+     "$1,100",
+     "Threshold climbing disputed",
+     "15% 1-star ratings",
+     "Sold by a third-party seller"
+    ],
+    "ideal_for": "Homes with low sofas and beds that turret robots can't reach.",
+    "not_for": "Budget buyers or homes with tall thresholds.",
+    "verdict": "The robot to buy if your furniture is low — otherwise the mid-range docks are better value.",
+    "review_summary": "4.0★ from 5,116 ratings (73% 4–5 stars). Owners call it a top mopping robot that needs some setup, and praise it on mixed floors, fine sand and in multi-pet homes. Some older reviews in the listing refer to earlier Roborock models.",
+    "reviews": [
+     {
+      "author": "Bacon4Life",
+      "stars": 5,
+      "date": "2025-05-26",
+      "title": null,
+      "excerpt": "Handles medium-pile carpet, hardwood, tile and thresholds of varying heights.",
+      "paraphrase": true
+     },
+     {
+      "author": "Rome in Texas",
+      "stars": 4,
+      "date": "2025-03-05",
+      "title": null,
+      "excerpt": "Close to perfect for mopping; take time to configure it.",
+      "paraphrase": true
+     },
+     {
+      "author": "Amazon Customer",
+      "stars": 5,
+      "date": "2026-02-11",
+      "title": null,
+      "excerpt": "Three months of daily use on fine sand dust; low maintenance.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "dreame-x60-max-ultra-complete",
+   "asin": "B0G5X4H4PS",
+   "name": "Dreame X60 Max Ultra Complete",
+   "brand": "Dreame",
+   "model": "X60 Max Ultra Complete",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4AsMMBg",
+   "affiliate_tag": "microtools0f-20",
+   "canonical_url": "https://www.amazon.com/dp/B0G5X4H4PS",
+   "images": [
+    "81e0h-0ULTL",
+    "81G3eUNiVjL",
+    "81-jvcNKP0L",
+    "81w9NERxx6L",
+    "81gj-ANRV8L",
+    "91GbXNe3--L",
+    "714u2DCFexL",
+    "81MWiEUqd3L"
+   ],
+   "tags": [
+    "pets",
+    "slim"
+   ],
+   "featured": true,
+   "badge": "Best premium",
+   "seller": "Amazon.com",
+   "price": 1499.98,
+   "list_price": 1699.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 500+ bought last month",
+   "rating": 4.2,
+   "reviews_count": 270,
+   "rating_breakdown": {
+    "5": 71,
+    "4": 11,
+    "3": 3,
+    "2": 4,
+    "1": 11
+   },
+   "specs": {
+    "suction_pa": 35000,
+    "runtime_min": 180,
+    "battery_mah": 6400,
+    "height_in": 3.13,
+    "climb_in": 1.77,
+    "navigation": "Retractable LiDAR",
+    "obstacle_avoidance": "Dual AI cameras + side 3D structured light (280+ objects)",
+    "mop_type": "Dual spinning pads (MopExtend RoboSwing)",
+    "mop_lift_mm": 10.5,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 100,
+    "mop_wash": true,
+    "hot_water_f": 212,
+    "hot_air_dry": true,
+    "auto_refill": true,
+    "noise_db": null,
+    "voice": "Alexa, Google Home",
+    "warranty": "3 years"
+   },
+   "specs_extra": {
+    "Step climbing": "4.5 cm single threshold, 8.8 cm (3.47 in) stacked (Dreame)",
+    "Mopping": "15 N pressure, 230 RPM, 104°F water",
+    "Dock": "212°F hot-water washing, hot-air drying, 100-day dust bag, dual solution compartment",
+    "Mop lift": "Dreame lists 10.5 mm; Vacuum Wars measured 21.5 mm"
+   },
+   "spec_sources": "Amazon listing (3.13 in, 180 min, 3-year warranty) + dreametech.com + Vacuum Wars review (6,400 mAh, climbing).",
+   "scores": {
+    "suction": 10,
+    "low_profile": 10,
+    "navigation": 9,
+    "mopping": 9,
+    "hands_free": 10,
+    "pet": 9,
+    "value": 6
+   },
+   "editorial": {
+    "tagline": "The thinnest, strongest, best-climbing robot in our catalog.",
+    "summary": "3.13 in tall with a retractable LiDAR, 35,000 Pa, dual AI cameras, 4.5 cm threshold climbing, extending mops and a dock that does everything — at $1,500.",
+    "body": [
+     "The X60 Max Ultra Complete is Dreame's everything robot. A retractable LiDAR drops it to 3.13 in so it slides under low furniture, yet it can still climb single thresholds up to 4.5 cm — and step up to 8.8 cm with stacked thresholds.",
+     "35,000 Pa DuoBrush suction, dual AI cameras with side structured light (280+ object types) and a RoboSwing mop that extends into corners make it the most capable cleaner here. The mops press at 15 N with warm water.",
+     "Its dock washes mops with 212°F water, dries them with hot air, holds 100 days of dust, refills itself and doses two cleaning solutions. It has a 3-year warranty and Amazon sells it. Owners say it rarely gets stuck; one 1-star reviewer found its navigation chaotic and returned it."
+    ],
+    "pros": [
+     "3.13 in tall with retractable LiDAR",
+     "Climbs 4.5 cm thresholds",
+     "35,000 Pa + dual AI cameras",
+     "Complete dock, 3-year warranty"
+    ],
+    "cons": [
+     "$1,500",
+     "Only 270 ratings so far",
+     "11% 1-star ratings"
+    ],
+    "ideal_for": "Large homes with low furniture, thresholds and mixed floors — and a big budget.",
+    "not_for": "Anyone whose home a $500 all-in-one already handles.",
+    "verdict": "The best robot vacuum money can buy right now, if you need what it does.",
+    "review_summary": "4.2★ from 270 ratings (82% 4–5 stars). Owners say it handles tricky areas and edges without getting stuck and transitions smoothly between floors and carpet. One notes the step climbing only helps for a couple of inches; a 1-star reviewer returned it over erratic navigation.",
+    "reviews": [
+     {
+      "author": "Leo",
+      "stars": 5,
+      "date": "2026-09-17",
+      "title": null,
+      "excerpt": "Finally a robot that handles tricky areas and edges.",
+      "paraphrase": true
+     },
+     {
+      "author": "Rob Novick",
+      "stars": 4,
+      "date": "2026-09-10",
+      "title": null,
+      "excerpt": "Moves easily from floors to carpet; step climbing helps only a couple of inches.",
+      "paraphrase": true
+     },
+     {
+      "author": "Ling Sun",
+      "stars": 5,
+      "date": "2026-09-24",
+      "title": null,
+      "excerpt": "A game-changer that actually cleans well.",
+      "paraphrase": true
+     },
+     {
+      "author": "Vadim",
+      "stars": 1,
+      "date": "2026-09-13",
+      "title": null,
+      "excerpt": "Navigation was chaotic; returning it.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "lefant-m210",
+   "asin": "B08R9LK9K3",
+   "name": "Lefant M210",
+   "brand": "Lefant",
+   "model": "M210",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4hQvBlO",
+   "affiliate_tag": "vacscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B08R9LK9K3",
+   "images": [
+    "61SeSmghSVL",
+    "71QS8Tdwa4L",
+    "71oxApNAw+L",
+    "71side8BbML",
+    "61O9H03hs3L",
+    "71SAoVMUT6L",
+    "71wcvjoYQPL",
+    "710qWIXvqjL"
+   ],
+   "tags": [
+    "budget",
+    "pets",
+    "vacuum-only",
+    "slim"
+   ],
+   "featured": false,
+   "badge": "Best under $100",
+   "seller": "Lefant (ships from Amazon)",
+   "price": 89.99,
+   "list_price": 199.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.1,
+   "reviews_count": 16309,
+   "rating_breakdown": {
+    "5": 61,
+    "4": 16,
+    "3": 9,
+    "2": 5,
+    "1": 9
+   },
+   "specs": {
+    "suction_pa": null,
+    "runtime_min": 120,
+    "battery_mah": null,
+    "height_in": 2.99,
+    "climb_in": null,
+    "navigation": "Gyro + infrared sensors (zigzag and random modes, no map)",
+    "obstacle_avoidance": "6 infrared anti-collision sensors",
+    "mop_type": "None (vacuum only)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": true,
+    "self_empty": false,
+    "dock_days": null,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": 52,
+    "voice": "Alexa, Google Assistant",
+    "warranty": null
+   },
+   "specs_extra": {
+    "Suction port": "Brushless (no roller to wrap hair)",
+    "Dustbin": "500 ml, 2 HEPA filters included",
+    "Modes": "Zigzag, random, spot, edge, schedule, manual (don't use zigzag on carpet)",
+    "Battery": "LiFePO4; 120 min is in low-suction mode"
+   },
+   "spec_sources": "Amazon listing (2.99 in per the bullets; the spec table says 2.8 in). Lefant doesn't publish a suction figure on the listing.",
+   "scores": {
+    "suction": null,
+    "low_profile": 10,
+    "navigation": 3,
+    "mopping": null,
+    "hands_free": 1,
+    "pet": 5,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "A 2.99 in, tangle-free robot vacuum for about $90.",
+    "summary": "The cheapest robot in our catalog: a slim 2.99 in body, a brushless suction port that pet hair can't wrap around, app and voice control and 120 minutes of runtime. No mapping and no dock.",
+    "body": [
+     "The Lefant M210 is a basic robot that does one job: keep hard floors free of dust and pet hair between real cleanings. There's no roller brush, just a suction port, so long hair goes straight into the bin instead of wrapping.",
+     "It doesn't map your home. It uses a gyroscope and infrared sensors to run zigzag or random patterns, and the app lets you schedule runs and change suction. Owners say it gets confused when furniture moves and struggles with some debris, but it's durable and easy to live with.",
+     "At 2.99 in it's one of the slimmest robots here, so it reaches under most beds and sofas. Lefant doesn't publish suction, and the 120-minute runtime is measured on low power, so our suction score is zero until it does."
+    ],
+    "pros": [
+     "About $90",
+     "2.99 in tall",
+     "No roller brush to untangle",
+     "App, Alexa and Google control"
+    ],
+    "cons": [
+     "No mapping or room selection",
+     "No self-emptying dock",
+     "Suction not published",
+     "Weak on thicker carpet"
+    ],
+    "ideal_for": "Small apartments with hard floors and pets, on the smallest budget.",
+    "not_for": "Large homes, thick carpet, or anyone who wants room-by-room cleaning.",
+    "verdict": "The best robot under $100 for hard floors and pet hair — keep expectations basic.",
+    "review_summary": "4.1★ from 16,309 ratings (77% 4–5 stars). Owners call it a great value that handles dust and dog hair on hard floors, and praise how simple and durable it is. Complaints: it misses some debris and gets confused when furniture moves.",
+    "reviews": [
+     {
+      "author": "G. Gutierrez",
+      "stars": 5,
+      "date": "2026-09-17",
+      "title": null,
+      "excerpt": "No roller for hair to wrap around; picks up a heavy shedder's hair.",
+      "paraphrase": true
+     },
+     {
+      "author": "CJ",
+      "stars": 5,
+      "date": "2026-09-07",
+      "title": null,
+      "excerpt": "Picks up dust as well as a $400 robot and survives a toddler.",
+      "paraphrase": true
+     },
+     {
+      "author": "J West",
+      "stars": 4,
+      "date": "2026-07-24",
+      "title": null,
+      "excerpt": "A big help, but gets confused when furniture moves.",
+      "paraphrase": true
+     },
+     {
+      "author": "Daniel",
+      "stars": 3,
+      "date": "2026-08-21",
+      "title": null,
+      "excerpt": "Great value, average cleaning.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "ilife-v2",
+   "asin": "B0F4DKGRDN",
+   "name": "ILIFE V2",
+   "brand": "ILIFE",
+   "model": "V2",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4d9yqvP",
+   "affiliate_tag": "vacscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B0F4DKGRDN",
+   "images": [
+    "61Fss4uOG+L",
+    "81oyTMLEFNL",
+    "71Dn0pLS1vL",
+    "615vb0GIREL",
+    "71R+VTGIE0L",
+    "81DL1B2Q1+L",
+    "71iJDUQPOnL",
+    "71ueeP+w-+L"
+   ],
+   "tags": [
+    "budget",
+    "pets",
+    "vacuum-only",
+    "slim"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "ILIFE Official Store (ships from Amazon)",
+   "price": 84.99,
+   "list_price": 99.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 2K+ bought last month",
+   "rating": 4.2,
+   "reviews_count": 24406,
+   "rating_breakdown": {
+    "5": 63,
+    "4": 17,
+    "3": 9,
+    "2": 4,
+    "1": 7
+   },
+   "specs": {
+    "suction_pa": null,
+    "runtime_min": 120,
+    "battery_mah": null,
+    "height_in": 2.99,
+    "climb_in": null,
+    "navigation": "Random bounce (no map)",
+    "obstacle_avoidance": "Bump + cliff sensors",
+    "mop_type": "None (vacuum only)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": true,
+    "self_empty": false,
+    "dock_days": null,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": 69,
+    "voice": "None (remote control, no Wi-Fi)",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Control": "Physical remote and button; no app or Wi-Fi",
+    "Dustbin": "300 ml, lifts out from the top",
+    "Modes": "Auto, spot, edge, schedule",
+    "Suction port": "Tangle-free, no roller brush"
+   },
+   "spec_sources": "Amazon listing (12.2 × 12.2 × 2.99 in, 120 min, 69 dB, 1-year warranty). ILIFE doesn't publish suction. The listing includes older ILIFE model reviews.",
+   "scores": {
+    "suction": null,
+    "low_profile": 10,
+    "navigation": 2,
+    "mopping": null,
+    "hands_free": 1,
+    "pet": 5,
+    "value": 8
+   },
+   "editorial": {
+    "tagline": "The simplest robot here: a remote, no app, no Wi-Fi.",
+    "summary": "A 2.99 in robot you control with a remote: tangle-free suction port, 120 minutes of runtime and scheduling, with no app, no map and no Wi-Fi to set up.",
+    "body": [
+     "The ILIFE V2 is for people who don't want an app. You press a button or use the remote, it cleans in a random pattern, and it returns to charge when the battery runs low. Scheduling is built in.",
+     "Like the Lefant, it uses a suction port with no roller brush, so pet hair doesn't wrap around anything. Owners say it picks up a surprising amount of dog hair on hard floors, but it's weak on carpet and tends to favor some areas while missing others.",
+     "It's 2.99 in tall and 69 dB — louder than most. ILIFE doesn't publish a suction figure, and many reviews on the listing are for older ILIFE models."
+    ],
+    "pros": [
+     "About $85",
+     "No app or Wi-Fi needed",
+     "2.99 in tall",
+     "Tangle-free suction port"
+    ],
+    "cons": [
+     "Random navigation misses spots",
+     "Weak on carpet",
+     "Loud (69 dB)",
+     "Small 300 ml bin"
+    ],
+    "ideal_for": "Older relatives, renters and anyone who wants push-button cleaning on hard floors.",
+    "not_for": "Carpeted homes or anyone who wants full coverage every run.",
+    "verdict": "A no-fuss hard-floor helper; the Lefant M210 is the better robot for similar money.",
+    "review_summary": "4.2★ from 24,406 ratings (80% 4–5 stars), including many for older ILIFE models. Recent owners say it handles dog hair on hard floors and is easy to empty. A 3-star review says it struggles on carpet and keeps missing the same areas.",
+    "reviews": [
+     {
+      "author": "Sheri",
+      "stars": 5,
+      "date": "2026-08-29",
+      "title": null,
+      "excerpt": "Keeps dog hair manageable and the bin empties from the top.",
+      "paraphrase": true
+     },
+     {
+      "author": "Maz B.",
+      "stars": 4,
+      "date": "2025-12-02",
+      "title": null,
+      "excerpt": "Very good for the price with two shedding dogs.",
+      "paraphrase": true
+     },
+     {
+      "author": "Amazon Customer",
+      "stars": 3,
+      "date": "2026-09-05",
+      "title": null,
+      "excerpt": "Fine on hard floors, weak on carpet, misses the same areas.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "irobot-roomba-105-vac",
+   "asin": "B0DX6KZR9T",
+   "name": "iRobot Roomba 105 Vac",
+   "brand": "iRobot",
+   "model": "Roomba 105 Vac (Q312020)",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4AQiqci",
+   "affiliate_tag": "vacscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B0DX6KZR9T",
+   "images": [
+    "71GZCWlJ6NL",
+    "71UGtVZsMpL",
+    "81iGMu+QUtL",
+    "81NG74cdtQL",
+    "81cZ9G5u6wL",
+    "81OYxS+yRDL",
+    "81eydI2-bCL",
+    "81kXV5u2r8L"
+   ],
+   "tags": [
+    "budget",
+    "vacuum-only"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Amazon.com",
+   "price": 149.0,
+   "list_price": 299.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 4K+ bought last month",
+   "rating": 4.2,
+   "reviews_count": 31611,
+   "rating_breakdown": {
+    "5": 63,
+    "4": 17,
+    "3": 8,
+    "2": 4,
+    "1": 8
+   },
+   "specs": {
+    "suction_pa": 7000,
+    "runtime_min": 200,
+    "battery_mah": null,
+    "height_in": 4.1,
+    "climb_in": null,
+    "navigation": "ClearView LiDAR",
+    "obstacle_avoidance": "None (LiDAR + bump sensors)",
+    "mop_type": "None (vacuum only)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": false,
+    "self_empty": false,
+    "dock_days": null,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": null,
+    "voice": "Alexa, Siri, Google",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Brushes": "Single bristle brush + edge-sweeping brush (hair-cutting tool included)",
+    "Dock": "Charging dock only; AutoEmpty version sold separately",
+    "Suction levels": "4",
+    "Wi-Fi": "2.4 GHz"
+   },
+   "spec_sources": "Amazon listing (4.1 in, 200 min, 1-year warranty) + Vacuum Wars review (7,000 Pa official, 2.16 kPa measured, 29% on its pet-hair test). The listing shares ratings with older Roomba models.",
+   "scores": {
+    "suction": 4,
+    "low_profile": 1,
+    "navigation": 5,
+    "mopping": null,
+    "hands_free": 1,
+    "pet": 3,
+    "value": 7
+   },
+   "editorial": {
+    "tagline": "A LiDAR Roomba for $149, sold by Amazon.",
+    "summary": "iRobot's entry model: LiDAR mapping, straight-row cleaning, room selection, 200 minutes of runtime and a huge bin — but a single bristle brush that struggles with long hair.",
+    "body": [
+     "The Roomba 105 Vac is the cheapest way to get a current-generation Roomba with LiDAR. It maps quickly, cleans in neat rows, lets you pick rooms and keep-out zones in the app, and recharges and resumes when needed.",
+     "Owners upgrading from older Roombas say it's quieter, has a much bigger bin and handles area rugs well. Vacuum Wars measured solid carpet cleaning (82% of embedded sand) but poor pet-hair pickup, with most long strands wrapping the single bristle brush.",
+     "At 4.1 in it's one of the tallest robots here, there's no obstacle avoidance, and it has no dock to empty itself. Many of its 31,000+ ratings come from the older Roomba 692 that shares the listing."
+    ],
+    "pros": [
+     "LiDAR mapping and room selection for $149",
+     "200-minute runtime",
+     "Big bin",
+     "Sold by Amazon"
+    ],
+    "cons": [
+     "Bristle brush tangles with long hair",
+     "4.1 in tall",
+     "No obstacle avoidance",
+     "No self-emptying dock"
+    ],
+    "ideal_for": "Homes without long-haired pets that want a mapping Roomba cheaply.",
+    "not_for": "Pet owners, low furniture, or cluttered floors.",
+    "verdict": "Good mapping for the money; pet owners should pick the Roborock Q7 L5 instead.",
+    "review_summary": "4.2★ from 31,611 ratings (80% 4–5 stars), shared with older Roomba models. Recent owners say it's the quietest Roomba they've had, maps easily and handles area rugs. Complaints: it gets hung up on clutter, and one owner needed a replacement after three months.",
+    "reviews": [
+     {
+      "author": "CentDC",
+      "stars": 5,
+      "date": "2026-09-21",
+      "title": null,
+      "excerpt": "Quietest Roomba they've owned; easy mapping, great on area rugs.",
+      "paraphrase": true
+     },
+     {
+      "author": "wes_mantooth",
+      "stars": 5,
+      "date": "2025-07-10",
+      "title": null,
+      "excerpt": "A big step up from older Roombas: huge bin, neat rows.",
+      "paraphrase": true
+     },
+     {
+      "author": "Amazon Customer",
+      "stars": 4,
+      "date": "2026-09-23",
+      "title": null,
+      "excerpt": "Cleans well but gets hung up on clutter.",
+      "paraphrase": true
+     },
+     {
+      "author": "HarmonTeach",
+      "stars": 3,
+      "date": "2026-03-22",
+      "title": null,
+      "excerpt": "Kept getting stuck; support sent a replacement.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "eufy-11s-max",
+   "asin": "B07R295MLS",
+   "name": "eufy RoboVac 11S MAX",
+   "brand": "eufy",
+   "model": "11S MAX (AK-T2126)",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/3Vdcee1",
+   "affiliate_tag": "vacscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B07R295MLS",
+   "images": [
+    "7162dbcZW3L",
+    "71xWifSgNKL",
+    "61U3Vs31B3L",
+    "61a2DsgXjGL",
+    "61JzIttg6EL",
+    "7167jk-r+-L",
+    "71ehM6-wCjL",
+    "614a2s4Zz4L"
+   ],
+   "tags": [
+    "budget",
+    "vacuum-only",
+    "slim"
+   ],
+   "featured": false,
+   "badge": "Slimmest robot",
+   "seller": "Anker EufyHome (ships from Amazon)",
+   "price": 169.99,
+   "list_price": 279.99,
+   "price_date": "2026-09-27",
+   "availability": "3K+ bought last month",
+   "rating": 4.3,
+   "reviews_count": 59535,
+   "rating_breakdown": {
+    "5": 66,
+    "4": 16,
+    "3": 7,
+    "2": 4,
+    "1": 7
+   },
+   "specs": {
+    "suction_pa": 2000,
+    "runtime_min": 100,
+    "battery_mah": null,
+    "height_in": 2.85,
+    "climb_in": 0.71,
+    "navigation": "Random bounce (BoostIQ, no map)",
+    "obstacle_avoidance": "Infrared + cliff sensors",
+    "mop_type": "None (vacuum only)",
+    "mop_lift_mm": null,
+    "edge_reach": null,
+    "anti_tangle": false,
+    "self_empty": false,
+    "dock_days": null,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": 55,
+    "voice": "None (remote control, no Wi-Fi)",
+    "warranty": "1 year"
+   },
+   "specs_extra": {
+    "Control": "Remote and buttons only; no app or Wi-Fi",
+    "Dustbin": "600 ml",
+    "Top cover": "Anti-scratch tempered glass",
+    "Suction": "eufy has long rated the 11S MAX at 2,000 Pa; the current spec table says 7,000 Pa, which we haven't verified"
+   },
+   "spec_sources": "Amazon listing (2.85 in, 18 mm climbing, 100 min, 55 dB, 12-month warranty). The listing's reviews cover several eufy models.",
+   "scores": {
+    "suction": 0,
+    "low_profile": 10,
+    "navigation": 2,
+    "mopping": null,
+    "hands_free": 1,
+    "pet": 4,
+    "value": 6
+   },
+   "editorial": {
+    "tagline": "The slimmest robot in our catalog at 2.85 in — and one of the quietest.",
+    "summary": "A 2.85 in, 55 dB robot vacuum with a remote, BoostIQ carpet boost and 100 minutes of runtime. No app, no map, no dock — just quiet, reliable cleaning under low furniture.",
+    "body": [
+     "The 11S MAX has been one of Amazon's best-selling robots for years because it's slim, quiet and simple. At 2.85 in it's the thinnest robot we list, so it cleans under beds and sofas most others can't reach.",
+     "It navigates in a random pattern, boosts suction on carpet automatically and climbs thresholds up to 18 mm. There's no app or Wi-Fi: you use the remote or the buttons, including scheduling.",
+     "Suction is the weak spot. eufy has long rated it at 2,000 Pa — far below the budget LiDAR robots — and its bristle roller isn't anti-tangle. With 59,000+ ratings it's proven, but some of those reviews are for other eufy models."
+    ],
+    "pros": [
+     "2.85 in tall",
+     "Quiet (55 dB)",
+     "600 ml bin",
+     "Huge review history"
+    ],
+    "cons": [
+     "Low suction",
+     "No mapping or app",
+     "Bristle roller tangles",
+     "$170 buys LiDAR elsewhere"
+    ],
+    "ideal_for": "Very low furniture and people who want a quiet robot without an app.",
+    "not_for": "Pet-heavy homes or anyone who wants mapping.",
+    "verdict": "Buy it for the 2.85 in height and the quiet; otherwise a LiDAR robot is better value.",
+    "review_summary": "4.3★ from 59,535 ratings (82% 4–5 stars), covering several eufy models. Owners praise how quiet it is and how much dog hair and cat litter it picks up. One long-term owner had a malfunction that Anker support resolved.",
+    "reviews": [
+     {
+      "author": "echo heart",
+      "stars": 5,
+      "date": "2026-09-16",
+      "title": null,
+      "excerpt": "Quiet, daily use, picks up lots of dog hair.",
+      "paraphrase": true
+     },
+     {
+      "author": "Jennifer Rankel",
+      "stars": 5,
+      "date": "2026-07-27",
+      "title": null,
+      "excerpt": "Great for the price; note the listing's reviews cover several models.",
+      "paraphrase": true
+     },
+     {
+      "author": "Nicole K",
+      "stars": 4,
+      "date": "2022-12-03",
+      "title": null,
+      "excerpt": "Handles cat fur and litter in a 750 sq ft apartment.",
+      "paraphrase": true
+     },
+     {
+      "author": "Mike F.",
+      "stars": 5,
+      "date": "2021-06-09",
+      "title": null,
+      "excerpt": "Had a malfunction; Anker support sorted it out.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "irobot-roomba-115x-combo",
+   "asin": "B0H34W2MS8",
+   "name": "iRobot Roomba 115X Combo + AutoEmpty",
+   "brand": "iRobot",
+   "model": "Roomba 115X Combo + AutoEmpty dock (Y452020)",
+   "variant": null,
+   "affiliate_url": "https://amzn.to/4hQ4Qhn",
+   "affiliate_tag": "vacscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B0H34W2MS8",
+   "images": [
+    "71xIngBv5oL",
+    "91bkmCTBJvL",
+    "81-VrwgULTL",
+    "81hmwkK3v5L",
+    "810ZZsNS+oL",
+    "81Qe15sPuZL",
+    "71C4bUfd2ML",
+    "717zVO0i+mL"
+   ],
+   "tags": [
+    "budget",
+    "pets"
+   ],
+   "featured": true,
+   "badge": "Best deal",
+   "seller": "Amazon.com",
+   "price": 199.99,
+   "list_price": 469.99,
+   "price_date": "2026-09-27",
+   "availability": "In stock · 300+ bought last month",
+   "rating": 4.4,
+   "reviews_count": 5209,
+   "rating_breakdown": {
+    "5": 70,
+    "4": 16,
+    "3": 7,
+    "2": 2,
+    "1": 5
+   },
+   "specs": {
+    "suction_pa": 15000,
+    "runtime_min": 173,
+    "battery_mah": null,
+    "height_in": null,
+    "climb_in": null,
+    "navigation": "ClearView LiDAR",
+    "obstacle_avoidance": "None (LiDAR + bump sensors)",
+    "mop_type": "Pad, no lift (no-mop zones for rugs)",
+    "mop_lift_mm": null,
+    "edge_reach": true,
+    "anti_tangle": true,
+    "self_empty": true,
+    "dock_days": 90,
+    "mop_wash": false,
+    "hot_water_f": null,
+    "hot_air_dry": false,
+    "auto_refill": false,
+    "noise_db": null,
+    "voice": "Alexa, Siri, Google",
+    "warranty": null
+   },
+   "specs_extra": {
+    "Dock": "2.5 L AllergenLock bag, up to 90 days",
+    "Coverage": "Up to 900 sq ft per charge (iRobot)",
+    "Mopping": "Washable microfiber pad, SmartScrub spot mode, 3 water levels",
+    "Height": "The listing shows 3.11 in; iRobot doesn't publish it, so measure before relying on it"
+   },
+   "spec_sources": "Amazon listing (15,000 Pa, 173 min, dimensions 11.73 × 11.93 × 3.11 in) + irobot.com (900 sq ft, 90-day dock). Much of the rating history comes from older Roombas on a shared listing.",
+   "scores": {
+    "suction": 7,
+    "low_profile": null,
+    "navigation": 5,
+    "mopping": 3,
+    "hands_free": 5,
+    "pet": 6,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "A self-emptying Roomba that vacuums and mops, at $200 during this deal.",
+    "summary": "15,000 Pa, LiDAR, anti-hair-wrap brushes, a light mop and a 90-day AutoEmpty dock — at 57% off its $469.99 list price when we checked.",
+    "body": [
+     "The Roomba 115X Combo is iRobot's 2026 entry-level vacuum-and-mop, bundled with the AutoEmpty dock. ClearView LiDAR maps the home and cleans in neat rows, and the 2.5 L bag holds up to three months of debris.",
+     "It vacuums at 15,000 Pa with anti-hair-wrap brushes and mops lightly with a washable pad at the same time. The pad doesn't lift, so you set no-mop zones to keep rugs dry. There's no obstacle camera.",
+     "At $199.99 it undercuts most self-emptying robots with LiDAR. Early owners of this model praise the mapping and the dock, but most of the 5,000+ ratings come from older Roombas on the same listing, and iRobot doesn't publish the robot's height."
+    ],
+    "pros": [
+     "Self-emptying (90 days) + mop for $200",
+     "15,000 Pa, anti-hair-wrap brushes",
+     "LiDAR mapping",
+     "Sold by Amazon"
+    ],
+    "cons": [
+     "Mop pad doesn't lift",
+     "No obstacle avoidance",
+     "Height not confirmed by iRobot",
+     "Deal price may not last"
+    ],
+    "ideal_for": "Pet homes with mostly hard floors that want hands-free emptying on a budget.",
+    "not_for": "Homes with lots of rugs you'd need to mop around.",
+    "verdict": "At $200 it's one of the best deals in robot vacuums; at full price, look elsewhere.",
+    "review_summary": "4.4★ from 5,209 ratings (86% 4–5 stars), most from older Roomba models on a shared listing. Early owners of the 115X say the LiDAR maps rooms well and like the 90-day dock.",
+    "reviews": [
+     {
+      "author": "TechBob",
+      "stars": 5,
+      "date": "2026-09-19",
+      "title": null,
+      "excerpt": "LiDAR maps the rooms and moves around without trouble.",
+      "paraphrase": true
+     },
+     {
+      "author": "Scott O",
+      "stars": 5,
+      "date": "2026-09-15",
+      "title": null,
+      "excerpt": "Likes not emptying it for up to 90 days.",
+      "paraphrase": true
+     }
+    ]
+   }
+  }
+ ]
+}

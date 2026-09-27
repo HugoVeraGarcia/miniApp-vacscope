@@ -1,0 +1,5 @@
+link https://amzn.to/3TUmrvt tag ok — roborock Saros 10R; seller third-party, ships Amazon; $1,099.99 list $1,599.99; 1K+ bought/mo
+rating 4.0 (5,116) 5:61 4:12 3:7 2:5 1:15 — listing includes older Roborock reviews from 2021-2022
+images 619xjRMbkSL 71xaFqOq4NL 71S6dCyikaL 918KYIPhHhL 71v1-EFsyGL 711LyQ0eK7L 81Nw4L3Az6L 71BbT6hD+eL
+specs: 3.14 in ultra-thin (no raised LiDAR turret); StarSight Autonomous System 2.0 (3D sensing); VertiBeam lateral obstacle avoidance, 108 obstacle types, cleans along cables; 22,000 Pa HyperForce; DuoDivide zero-tangle main brush; FlexiArm Riser side brush; anti-tangle omni wheels; auto re-wash/re-mop soiled areas; extends to corners; dock self-emptying + hot-air drying (+ mop washing); battery 180 min; noise 65 dB; voice (Hello Rocky, Alexa, Siri, Google)
+reviews: Bacon4Life 5 2025-05-26 medium pile carpet, hardwood, tile, thresholds of varying heights over two levels; Rome in Texas 4 2025-03-05 great mopping robot, needs configuration; Amazon Customer 5 2026-02-11 daily for 3 months, sand dust, low maintenance.

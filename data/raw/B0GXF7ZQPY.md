@@ -1,0 +1,5 @@
+link https://amzn.to/4rCL1h5 tag ok — roborock Qrevo 2 Pro (2026); seller third-party, ships Amazon; $549.98 list $799.99; 1K+ bought/mo
+rating 4.3 (988) 5:74 4:8 3:4 2:3 1:11 — listing includes older Qrevo Pro reviews (2024-2025)
+images 61oLk13zjcL 71qdZ70yK0L 71wXY6RQChL 7197sg5SxRL 71GVF42LskL 71ZahJKiyWL 71YHTiVcu5L 71Nx7YBWSOL
+specs: 20,000 Pa HyperForce, carpet boost; Dual Zero-Tangle (DuoDivide main brush + anti-tangle side brush); FlexiArm edge mopping (1.85 mm to wall), reversible side brush corners; auto mop removal, vacuums carpet before mopping, mop lift up to 15 mm; dock auto-empty, high-temp mop washing, 113°F warm air drying; LiDAR + smart obstacle avoidance; dual liftable spinning mops; battery 253 min; noise 54 dB; dock 19.45x17.72x15.83 in 27.1 lb
+reviews: Beach Bum 312 5 2026-01-10 flexi arm cleans along walls & under cabinet kick plates, ~1 yr; Mark 5 2026-02-04 first that mops well; Michael 1 2026-05-18 LiDAR failed under 1.5 yr, poor support (Qrevo Pro); Victoria Bell 5 2024-07-07 Victorian home, nooks.

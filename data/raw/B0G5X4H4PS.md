@@ -1,0 +1,5 @@
+link https://amzn.to/4AsMMBg (also 4xKpZhF) tag ok — dreame X60 Max Ultra Complete (RLX87DE); seller Amazon.com; $1,499.98 list $1,699.99; 500+ bought/mo
+rating 4.2 (270) 5:71 4:11 3:3 2:4 1:11
+images 81e0h-0ULTL 81G3eUNiVjL 81-jvcNKP0L 81w9NERxx6L 81gj-ANRV8L 91GbXNe3--L 714u2DCFexL 81MWiEUqd3L
+specs: height 3.13 in (7.95 cm) thinnest Dreame; dual AI cameras + light; 280+ obstacle types; 35,000 Pa DuoBrush (pressure plate); step detection/climb up to 3.47 in (8.8 cm) (table also says clear obstacles 3.15 in/8 cm); MopExtend RoboSwing + SideReach; mop 15 N, 230 RPM, 104°F water; dock: 212°F hot water wash, hot-air dry, 100-day dust, dual solution compartment, self refill/empty; battery 180 min; 3-year warranty; package 18x18x26 in 52 lb
+reviews: Leo 5 2026-09-17 handles tricky areas, edges, rarely stuck; Rob Novick 4 2026-09-10 transitions floor→carpet; step-climb only a couple inches, can be hindrance; Vadim 1 2026-09-13 chaotic navigation, returning; Ling Sun 5 2026-09-24 game-changer.

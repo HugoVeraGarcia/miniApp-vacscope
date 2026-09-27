@@ -1,0 +1,5 @@
+link https://amzn.to/4yhGUJw (also 4ryCzzf) tag ok — dreame L40 Ultra Gen 2 (model RLL53SE); seller Amazon.com; $499.99 list $749.99; 1K+ bought/mo
+rating 4.3 (612) 5:73 4:11 3:5 2:2 1:9
+images 61hMADKz9DL 81-uYMN20-L 81XxD+9bgHL 81rN8kheRYL 81duNU6y38L 71mepTNMvaL 71QPpsn-NtL 81nWahOTQgL
+specs: 25,000 Pa, 5 suction levels; extendable side brush & mop (corners); all-in-one dock (auto-empty, mop washing, hot-air drying); carpet modes incl. 10.5 mm (0.41 in) mop lift; Smart Pathfinder + 3DAdapt obstacle avoidance; 5,200 mAh; up to 231 min / 1,679 ft² quiet mode; app, Alexa/Siri/Google; 2.4 GHz Wi-Fi; optional auto-detergent module (sold separately); foam filter; package dims 13.8x13.4x23.3 (incl dock?), weight 37 lb (with dock)
+reviews: ken 5 2026-09-13 "Works great—worth it" strong suction, even water; Pea 5 2026-09-21 slim dock design; Karen Palbrach 4 2026-07-19 2 yrs no issues, wishes longer battery (recharges often); Hong 5 2026-09-23 edges & corners, easy app; California girl 5 2026-06-06 senior, improved daily life; Jen 5 2026-05-02 switched from Roomba/Braava.

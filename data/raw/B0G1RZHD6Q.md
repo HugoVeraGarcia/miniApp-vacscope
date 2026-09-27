@@ -1,0 +1,5 @@
+link https://amzn.to/4hfygp5 (also 4yZ7ze6) tag ok — MOVA P10 Pro Ultra Gen 2 (RLP55SE); seller Amazon.com; $427.00 list $599.00; 400+ bought/mo
+rating 4.1 (335) 5:67 4:11 3:5 2:3 1:14
+images 513N30HO1wL 81u8vfPgpfL 719l0WzbkvL 71gdJH1caaL 81qy17CjMlL 81Ny9DAgg7L 713nNjTr3IL 81DVFDNnMyL
+specs: 26,000 Pa 5 levels; TurboPress 12 N mop pressure, 260 RPM rotating pads; 212°F hot water mop washing (PTC); 1-hour hot air drying; MaxiReach edge (extending); triple anti-tangle (V rubber brush, optional CleanChop brush, anti-tangle omni wheel); 10.5 mm liftable pads; auto-empty up to 100 days (3.2 L bag); 4.5 L clean / 4 L dirty tanks; auto detergent dispense; voice/app; "Battery life 40 minutes" in table (likely error; not used)
+reviews: Roger 5 2026-06-24 great with dog; John Cullen 5 2026-07-14 best bang for buck; Jan Holder 1 2026-06-09 "CHECK THE WARRANTY" issue with warranty after failure; Karen and Steve 4 2026-09-11 7th robot, most features; Andrew B 5 2026-06-06 surprisingly good vs high-end; Erin B 5 2026-08-27 lifts mops over mats, got caught on phone charger once.
