@@ -80,7 +80,7 @@
         else add("ok", "Self-emptying" + (s.dock_days ? " (up to " + s.dock_days + " days)" : ""));
       }
       // 7. budget
-      if (p.price != null && p.price > a.budget) add("no", "Over budget: " + money(p.price));
+      if (p.price != null && p.price > a.budget) add("no", "Above your budget (" + p.band + ")");
       var st = checks.some(function (c) { return c.st === "no"; }) ? "no" : checks.some(function (c) { return c.st === "warn"; }) ? "warn" : "ok";
       return { p: p, st: st, checks: checks };
     }
@@ -136,10 +136,10 @@
           '<div class="ff-card__body"><div class="ff-card__top"><span class="ff-status">' + labels[r.st] + '</span><span class="score-pill" title="Editor score">' + p.score + "</span></div>" +
           '<h3><a href="' + esc(p.url) + '">' + esc(p.name) + "</a></h3>" +
           '<ul class="ff-checks">' + r.checks.map(function (c) { return '<li class="is-' + c.st + '">' + esc(c.t) + "</li>"; }).join("") + "</ul>" +
-          '<div class="ff-card__actions">' + (p.price != null ? '<span class="ff-price">' + money(p.price) + "</span>" : "") +
+          '<div class="ff-card__actions">' + (p.band ? '<span class="ff-price">' + esc(p.band) + "</span>" : "") +
           '<a class="btn btn--amazon btn--xs" href="' + esc(p.aff) + '" target="_blank" rel="sponsored nofollow noopener">View on Amazon<svg class="ico"><use href="#i-ext"/></svg></a>' +
           '<a class="btn btn--ghost btn--xs" href="' + esc(p.url) + '">Review</a></div></div></article>';
-      }).join("") + '<p class="note note--muted">Prices from Amazon.com as of ' + esc(DB.products[0].priceDate) + ". Specs are manufacturer claims; see each review for sources.</p>";
+      }).join("") + '<p class="note note--muted">Price ranges are approximate; check Amazon for today\'s price.' + " Specs are manufacturer claims; see each review for sources.</p>";
       drawViz(a, results);
     }
 

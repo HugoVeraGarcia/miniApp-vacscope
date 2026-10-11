@@ -9,7 +9,7 @@
  "base_url": "https://robotvacuums.specversus.com",
  "lang": "en",
  "year": 2026,
- "show_prices": true,
+ "show_prices": false,
  "contact_email": "soporte.microtools.lat@gmail.com",
  "fit_finder": {
   "sqft_per_min": 7
@@ -265,7 +265,7 @@
     ],
     [
      "What's the best cheap self-emptying robot?",
-     "In our catalog, the Dreame D20 Air Plus and Tikom L8000 Plus offer self-emptying docks for roughly $210–$230 at our last price check."
+     "In our catalog, the Dreame D20 Air Plus and Tikom L8000 Plus offer self-emptying docks for under $250 at our last price check."
     ],
     [
      "How long do budget robots last?",

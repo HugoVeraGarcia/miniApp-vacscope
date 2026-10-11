@@ -1,69 +1,181 @@
 {
  "_note": "Head-to-head pages (/vs/<a>-vs-<b>/). Specs, prices, differences, table and radar come from products.json; only editorial text lives here.",
  "matchups": [
-  {"a": "dreame-l40-ultra-gen2", "b": "roborock-qrevo-s-pro",
+  {
+   "a": "dreame-l40-ultra-gen2",
+   "b": "roborock-qrevo-s-pro",
    "intro": "The two all-in-one docks most shoppers compare at around $500. Both empty themselves, wash and dry their spinning mops and avoid obstacles with structured light. The Dreame adds extending brush and mop for corners and a longer warranty; the Roborock refills its own water.",
    "choose_a": "You want better corner and edge cleaning (the side brush and mop swing out), more suction (25,000 vs 18,500 Pa), a longer runtime (231 vs 180 min) and a 3-year warranty with Amazon as the seller.",
    "choose_b": "You want a dock that also refills the robot's water, washes mops with 167°F water, and the huge sales and review base of Amazon's best-selling all-in-one robot.",
    "bottom_line": "The L40 Ultra Gen 2 is the better robot for most homes; the Qrevo S Pro wins if automatic water refill matters to you.",
-   "faq": [["Which cleans corners better?", "The Dreame L40 Ultra Gen 2: both its side brush and one mop extend outward to reach corners and under cabinet edges."],
-           ["Which has the better warranty?", "Dreame lists 3 years; Roborock lists 1 year for the Qrevo S Pro."],
-           ["Which is easier to live with?", "Both are close. The Qrevo S Pro refills its own water; the L40 has an optional auto-detergent module."]]},
-  {"a": "dreame-d20-air-plus", "b": "roborock-q7-m5-plus",
-   "intro": "Two budget self-emptying robots with LiDAR and anti-tangle brushes. The Dreame costs about $70 less, has twice the suction and a longer-lasting dust bag; the Roborock has an enormous review history.",
+   "faq": [
+    [
+     "Which cleans corners better?",
+     "The Dreame L40 Ultra Gen 2: both its side brush and one mop extend outward to reach corners and under cabinet edges."
+    ],
+    [
+     "Which has the better warranty?",
+     "Dreame lists 3 years; Roborock lists 1 year for the Qrevo S Pro."
+    ],
+    [
+     "Which is easier to live with?",
+     "Both are close. The Qrevo S Pro refills its own water; the L40 has an optional auto-detergent module."
+    ]
+   ]
+  },
+  {
+   "a": "dreame-d20-air-plus",
+   "b": "roborock-q7-m5-plus",
+   "intro": "Two budget self-emptying robots with LiDAR and anti-tangle brushes. The Dreame costs less, has twice the suction and a longer-lasting dust bag; the Roborock has an enormous review history.",
    "choose_a": "You want the most for your money: 20,000 vs 10,000 Pa, a 4 L bag that lasts up to 120 days (vs 7–9 weeks), a 3-year warranty and Amazon as the seller.",
    "choose_b": "You trust Roborock's app and track record (25,000+ ratings) and want 2 cm threshold climbing that Roborock publishes.",
    "bottom_line": "The D20 Air Plus is the better buy; the Q7 M5+ is a safe, proven alternative.",
-   "faq": [["Which has more suction?", "The Dreame D20 Air Plus: 20,000 Pa versus 10,000 Pa claimed."],
-           ["Do they mop?", "Both can mop lightly with a pad that doesn't lift, so they aren't ideal for homes with rugs."],
-           ["How often do I change the bag?", "Dreame rates its 4 L bag for up to 120 days; Roborock rates its 2.7 L bag for 7–9 weeks."]]},
-  {"a": "ecovacs-deebot-t90-pro-omni", "b": "narwal-freo-20-edge",
-   "intro": "Two robots that ditch spinning pads for a wide, self-rinsing roller mop that scrubs with clean water. The ECOVACS costs $200 less and has an AI camera; the Narwal has more suction and a bigger dust bag but is very new.",
-   "choose_a": "You want the proven option at $499: an AI camera plus structured light, a roller that lifts 15 mm, 24 mm threshold climbing and Amazon as the seller.",
+   "faq": [
+    [
+     "Which has more suction?",
+     "The Dreame D20 Air Plus: 20,000 Pa versus 10,000 Pa claimed."
+    ],
+    [
+     "Do they mop?",
+     "Both can mop lightly with a pad that doesn't lift, so they aren't ideal for homes with rugs."
+    ],
+    [
+     "How often do I change the bag?",
+     "Dreame rates its 4 L bag for up to 120 days; Roborock rates its 2.7 L bag for 7–9 weeks."
+    ]
+   ]
+  },
+  {
+   "a": "ecovacs-deebot-t90-pro-omni",
+   "b": "narwal-freo-20-edge",
+   "intro": "Two robots that ditch spinning pads for a wide, self-rinsing roller mop that scrubs with clean water. The ECOVACS costs noticeably less and has an AI camera; the Narwal has more suction and a bigger dust bag but is very new.",
+   "choose_a": "You want the proven option under $500: an AI camera plus structured light, a roller that lifts 15 mm, 24 mm threshold climbing and Amazon as the seller.",
    "choose_b": "You want the highest suction (31,000 Pa), a tangle-free brush rated for 15.7 in hair, a 120-day dust bag and a quiet 55.8 dB — and don't mind a new listing with few reviews.",
    "bottom_line": "The T90 Pro Omni is the safer, cheaper pick today; revisit the Freo 20 Edge once it has more owner reviews.",
-   "faq": [["Why a roller mop instead of spinning pads?", "A roller is rinsed with clean water as it turns, so it keeps scrubbing with a clean surface instead of spreading dirty water."],
-           ["Which is better for long pet hair?", "Both have anti-tangle designs. Narwal specifically rates its brush system for hair up to 15.7 in."],
-           ["How reliable are the ratings?", "The T90 Pro Omni has 834 ratings. The Freo 20 Edge has 35, all posted within a few weeks of launch."]]},
-  {"a": "roborock-saros-10r", "b": "dreame-x60-max-ultra-complete",
-   "intro": "The two slimmest robots in our catalog, both about 3.1 in tall so they reach under low sofas and beds. The Dreame costs $400 more and adds more suction, better climbing, auto refill and a 3-year warranty.",
-   "choose_a": "You want a slim flagship for less: 3.14 in tall, camera + 3D obstacle sensing that cleans along cables, and a 22 mm mop lift, at about $1,100.",
+   "faq": [
+    [
+     "Why a roller mop instead of spinning pads?",
+     "A roller is rinsed with clean water as it turns, so it keeps scrubbing with a clean surface instead of spreading dirty water."
+    ],
+    [
+     "Which is better for long pet hair?",
+     "Both have anti-tangle designs. Narwal specifically rates its brush system for hair up to 15.7 in."
+    ],
+    [
+     "How reliable are the ratings?",
+     "The T90 Pro Omni has 834 ratings. The Freo 20 Edge has 35, all posted within a few weeks of launch."
+    ]
+   ]
+  },
+  {
+   "a": "roborock-saros-10r",
+   "b": "dreame-x60-max-ultra-complete",
+   "intro": "The two slimmest robots in our catalog, both about 3.1 in tall so they reach under low sofas and beds. The Dreame costs much more and adds more suction, better climbing, auto refill and a 3-year warranty.",
+   "choose_a": "You want a slim flagship for less: 3.14 in tall, camera + 3D obstacle sensing that cleans along cables, and a 22 mm mop lift, in the premium range.",
    "choose_b": "You also need to climb thresholds (4.5 cm single), want the strongest suction (35,000 Pa), a dock that refills itself and washes mops at 212°F, and a 3-year warranty from Amazon as the seller.",
    "bottom_line": "If your home has tall thresholds, the X60 is worth the extra; otherwise the Saros 10R gives you the low profile for less.",
-   "faq": [["Which is slimmer?", "They're essentially tied: 3.13 in for the Dreame X60 and 3.14 in for the Saros 10R."],
-           ["Which climbs thresholds better?", "The Dreame X60: 4.5 cm on a single threshold per Dreame. Roborock's 4 cm figure for the Saros 10R is for two stacked thresholds, and one review measured much less."],
-           ["Which has the better warranty?", "Dreame lists 3 years for the X60. Roborock's warranty for the Saros 10R isn't stated on the listing."]]},
-  {"a": "roborock-qrevo-2-pro", "b": "roborock-qrevo-s-pro",
-   "intro": "Two Roborock all-in-one robots about $50 apart. The Qrevo 2 Pro is the newer design with better carpet handling and edge mopping; the Qrevo S Pro is the best-seller with auto water refill.",
+   "faq": [
+    [
+     "Which is slimmer?",
+     "They're essentially tied: 3.13 in for the Dreame X60 and 3.14 in for the Saros 10R."
+    ],
+    [
+     "Which climbs thresholds better?",
+     "The Dreame X60: 4.5 cm on a single threshold per Dreame. Roborock's 4 cm figure for the Saros 10R is for two stacked thresholds, and one review measured much less."
+    ],
+    [
+     "Which has the better warranty?",
+     "Dreame lists 3 years for the X60. Roborock's warranty for the Saros 10R isn't stated on the listing."
+    ]
+   ]
+  },
+  {
+   "a": "roborock-qrevo-2-pro",
+   "b": "roborock-qrevo-s-pro",
+   "intro": "Two Roborock all-in-one robots close in price. The Qrevo 2 Pro is the newer design with better carpet handling and edge mopping; the Qrevo S Pro is the best-seller with auto water refill.",
    "choose_a": "You have lots of rugs: the mops detach at the dock or lift 15 mm, the FlexiArm mop reaches within 1.85 mm of walls, and it runs up to 253 minutes at 54 dB.",
    "choose_b": "You prefer the dock that refills the robot's water and washes mops at 167°F, and the massive review base of the best-selling model.",
    "bottom_line": "Mixed floors and edges: Qrevo 2 Pro. Maximum hands-free with a proven track record: Qrevo S Pro.",
-   "faq": [["What's new in the Qrevo 2 Pro?", "Auto-detaching mops, 15 mm mop lift, FlexiArm edge mopping, 20,000 Pa and a 253-minute battery rating."],
-           ["Which one refills its own water?", "The Qrevo S Pro's dock lists self-refilling."],
-           ["Which is quieter?", "The Amazon listings show 54 dB for the Qrevo 2 Pro and 60 dB for the Qrevo S Pro."]]},
-  {"a": "irobot-roomba-max-715", "b": "shark-powerdetect-nevertouch-pro",
+   "faq": [
+    [
+     "What's new in the Qrevo 2 Pro?",
+     "Auto-detaching mops, 15 mm mop lift, FlexiArm edge mopping, 20,000 Pa and a 253-minute battery rating."
+    ],
+    [
+     "Which one refills its own water?",
+     "The Qrevo S Pro's dock lists self-refilling."
+    ],
+    [
+     "Which is quieter?",
+     "The Amazon listings show 54 dB for the Qrevo 2 Pro and 60 dB for the Qrevo S Pro."
+    ]
+   ]
+  },
+  {
+   "a": "irobot-roomba-max-715",
+   "b": "shark-powerdetect-nevertouch-pro",
    "intro": "Two American brands with very different ideas. The Roomba Max 715 is a vacuum-only pet-hair specialist with an AI camera; the Shark is a vacuum-and-mop with the most hands-free dock in our catalog.",
    "choose_a": "You mostly have carpet and pets, don't need mopping, and want dual rubber anti-tangle brushes, 30,000 Pa and an AI camera that avoids cords and pet messes.",
    "choose_b": "You want mopping and the least maintenance: the dock refills water, washes and dries the pad, and the robot lifts itself over thresholds of about 1.5 in.",
    "bottom_line": "Carpet and pets: Roomba Max 715. Hard floors, thresholds and zero maintenance: Shark — but only at a normal price.",
-   "faq": [["Does the Roomba Max 715 mop?", "No. It's vacuum-only, which is why its mopping score is n/a."],
-           ["Which climbs thresholds better?", "The Shark, at about 1.5 in in Vacuum Wars' testing. iRobot doesn't publish a climbing height for the Max 715."],
-           ["Why is the Shark's value score low?", "At our price check it was sold by a third-party seller for $1,199.99, far above what we'd expect for its features."]]},
-  {"a": "mova-p10-pro-ultra-gen2", "b": "dreame-l40-ultra-gen2",
-   "intro": "Sister brands with similar docks: both empty the bin, wash and dry the mops and have 3-year warranties. The MOVA is about $73 cheaper and washes mops at 212°F; the Dreame is slimmer and has better obstacle avoidance.",
+   "faq": [
+    [
+     "Does the Roomba Max 715 mop?",
+     "No. It's vacuum-only, which is why its mopping score is n/a."
+    ],
+    [
+     "Which climbs thresholds better?",
+     "The Shark, at about 1.5 in in Vacuum Wars' testing. iRobot doesn't publish a climbing height for the Max 715."
+    ],
+    [
+     "Why is the Shark's value score low?",
+     "At our price check it was sold by a third-party seller at a price far above what we'd expect for its features."
+    ]
+   ]
+  },
+  {
+   "a": "mova-p10-pro-ultra-gen2",
+   "b": "dreame-l40-ultra-gen2",
+   "intro": "Sister brands with similar docks: both empty the bin, wash and dry the mops and have 3-year warranties. The MOVA is cheaper and washes mops at 212°F; the Dreame is slimmer and has better obstacle avoidance.",
    "choose_a": "You want the lowest price for a full dock with 212°F hot-water mop washing, 26,000 Pa and a 100-day dust bag.",
    "choose_b": "You want structured-light obstacle avoidance instead of a line laser, a slimmer 3.82 in body (vs 4.09 in), an extending side brush and a longer runtime.",
    "bottom_line": "Tight budget and nothing low to clean under: MOVA. Otherwise the L40 Ultra Gen 2 is worth the extra.",
-   "faq": [["Are MOVA and Dreame related?", "Yes, MOVA is a sister brand of Dreame, which is why the robots and docks share many features."],
-           ["Which fits under lower furniture?", "The Dreame L40 Ultra Gen 2 at 3.82 in, versus 4.09 in for the MOVA."],
-           ["Which avoids obstacles better?", "The Dreame, with 3D structured light. The MOVA uses a single front line laser."]]},
-  {"a": "roborock-q7-l5", "b": "tikom-l8000-plus",
-   "intro": "Two of the cheapest LiDAR robots on Amazon. The Roborock costs about $70 less and has more suction and anti-tangle brushes; the Tikom adds a self-emptying dock.",
+   "faq": [
+    [
+     "Are MOVA and Dreame related?",
+     "Yes, MOVA is a sister brand of Dreame, which is why the robots and docks share many features."
+    ],
+    [
+     "Which fits under lower furniture?",
+     "The Dreame L40 Ultra Gen 2 at 3.82 in, versus 4.09 in for the MOVA."
+    ],
+    [
+     "Which avoids obstacles better?",
+     "The Dreame, with 3D structured light. The MOVA uses a single front line laser."
+    ]
+   ]
+  },
+  {
+   "a": "roborock-q7-l5",
+   "b": "tikom-l8000-plus",
+   "intro": "Two of the cheapest LiDAR robots on Amazon. The Roborock costs less and has more suction and anti-tangle brushes; the Tikom adds a self-emptying dock.",
    "choose_a": "You want the lowest price for LiDAR mapping, 8,000 Pa, anti-tangle brushes and Roborock's app, and don't mind emptying the bin yourself.",
    "choose_b": "You want to stop emptying the bin: the dock holds up to 90 days of debris, and owners with heavy shedders rate it 4.5 stars.",
    "bottom_line": "Pets or a busy household: pay the extra for the Tikom's dock. Small apartment on a tight budget: the Q7 L5.",
-   "faq": [["Which has a self-emptying dock?", "Only the Tikom L8000 Plus. The Q7 L5 comes with a charging dock."],
-           ["Which has more suction?", "The Roborock Q7 L5: 8,000 Pa versus 6,000 Pa claimed."],
-           ["Do they avoid obstacles?", "Neither has an obstacle camera; both rely on LiDAR and bump sensors."]]}
+   "faq": [
+    [
+     "Which has a self-emptying dock?",
+     "Only the Tikom L8000 Plus. The Q7 L5 comes with a charging dock."
+    ],
+    [
+     "Which has more suction?",
+     "The Roborock Q7 L5: 8,000 Pa versus 6,000 Pa claimed."
+    ],
+    [
+     "Do they avoid obstacles?",
+     "Neither has an obstacle camera; both rely on LiDAR and bump sensors."
+    ]
+   ]
+  }
  ]
 }
